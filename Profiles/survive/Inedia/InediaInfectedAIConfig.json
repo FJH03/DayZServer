@@ -413,10 +413,10 @@
             "all": 1
         },
         "AttackAnimalsWolfs": {
-            "all": 0
+            "all": 1
         },
         "AttackAnimalsBears": {
-            "all": 0
+            "all": 1
         },
         "AttackAnimalsWildBoar": {
             "all": 1
