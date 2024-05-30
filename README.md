@@ -1,4 +1,4 @@
-## 您需要从steam创意工坊中获取如下最新版本的模组列表并将其文件夹放入DayZServer中:
+## 您需要从steam创意工坊中获取如下最新版本的模组列表，并将其文件夹放入DayZServer中:
 
 ### @Better-Snap-Sounds
 ### @CF
