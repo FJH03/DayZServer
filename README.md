@@ -8,4 +8,6 @@
 ### @DayZ-Expansion-Core
 ### @DayZ-Expansion-Groups
 ### @DayZ-Expansion-Navigation
+### @GoreZ
+### @InediaInfectedAI
 ### @ViewInventoryAnimation
