@@ -1,0 +1,10 @@
+name = "GoreZ"; 								// name 
+picture = "GoreZ/icons/pic.paa";			// picture in expanded description
+logoSmall = "GoreZ/icons/logo_small.edds";		// icon next to mod name when description is not expanded
+logo = "GoreZ/icons/logo.paa";					// logo below game menu
+logoOver = "GoreZ/icons/logo_over.paa";		// on mouse hover over logo
+tooltip = "tooltip";							// tool tip on mouse hover
+overview = "This mod adds more blood and bleedtrails"; 						// overview
+action = "https://discord.gg/NQn8hgW";					// link
+author = "Munghard";								// author
+version = "-";	

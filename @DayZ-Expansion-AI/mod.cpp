@@ -1,0 +1,11 @@
+name = "DayZ-Expansion-AI";
+picture = "DayZExpansion/Core/GUI/textures/expansion_icon.edds";
+logo = "DayZExpansion/Core/GUI/textures/expansion_icon.edds";
+logoSmall = "DayZExpansion/Core/GUI/textures/expansion_icon.edds";
+logoOver = "DayZExpansion/Core/GUI/textures/expansion_icon.edds";
+tooltip = "DayZ Expansion";
+overview = "$STR_MOD_EXPANSION_DESC";
+action = "";
+author = "$STR_MOD_EXPANSION_AUTHOR";
+authorID = "";
+version = "1.8.51";
