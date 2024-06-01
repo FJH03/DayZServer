@@ -1,17 +1,17 @@
 ### 您需要从steam创意工坊中获取以下最新版本的模组列表，并将其文件夹放入DayZServer中，凡是带空格的模组名称您都需要将空格换成_，key已经放好:
 
-#### @Better-Snap-Sounds
-#### @CF
-#### @Dabs_Framework (@Dabs Framework)
-#### @DayZ-Dynamic-AI-Addon (服务端拥有即可)
+#### @Better-Snap-Sounds 
+#### @CF (必备框架)
+#### @Dabs_Framework (@Dabs Framework，必备框架)
+#### @DayZ-Dynamic-AI-Addon (动态刷新ai，服务端拥有即可)
 #### @DayZ-Expansion-AI
 #### @DayZ-Expansion-Book
-#### @DayZ-Expansion-Core
-#### @DayZ-Expansion-Groups
-#### @DayZ-Expansion-Navigation
-#### @Drones
-#### @GoreZ
-#### @InediaInfectedAI
-#### @ViewInventoryAnimation
-#### @VPP
-#### @ZenSleep
+#### @DayZ-Expansion-Core (expansion核心)
+#### @DayZ-Expansion-Groups (expansion组队功能)
+#### @DayZ-Expansion-Navigation (expansion地图GPS)
+#### @Drones (众多无人机及其kit)
+#### @GoreZ (伪血腥)
+#### @InediaInfectedAI (加强僵尸，与添加各种硬核设定)
+#### @ViewInventoryAnimation (检查背包动作)
+#### @VPP (超级管理员)
+#### @ZenSleep (睡眠模组)
