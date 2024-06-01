@@ -16,7 +16,7 @@
 ##### @DayZ-Expansion-Navigation (expansion地图GPS)
 ##### @Drones (众多无人机及其kit)
 ##### @GoreZ (伪血腥)
-##### @InediaInfectedAI (加强僵尸，与添加各种硬核设定)
+##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定)
 ##### @ViewInventoryAnimation (检查背包动作)
 ##### @VPP (超级管理员)
 ##### @ZenSleep (睡眠模组)
