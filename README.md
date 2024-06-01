@@ -1,9 +1,14 @@
-### 您需要从steam创意工坊中获取以下最新版本的模组列表，并将其文件夹放入DayZServer中，凡是带空格的模组名称您都需要将空格换成_，key已经放好:
+## 您需要从steam创意工坊中获取以下最新版本的模组列表，并将其文件夹放入DayZServer中，凡是带空格的模组名称您都需要将空格换成_，key已经放好:
+
+### 服务端模组(-servermod=)
+
+#### @DayZ-Dynamic-AI-Addon (动态刷新ai，服务端拥有即可)
+
+### 客户端与服务端均必需模组(-mod=)
 
 #### @Better-Snap-Sounds 
 #### @CF (必备框架)
 #### @Dabs_Framework (@Dabs Framework，必备框架)
-#### @DayZ-Dynamic-AI-Addon (动态刷新ai，服务端拥有即可)
 #### @DayZ-Expansion-AI
 #### @DayZ-Expansion-Book
 #### @DayZ-Expansion-Core (expansion核心)
