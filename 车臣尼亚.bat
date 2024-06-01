@@ -12,7 +12,7 @@ title %wat% Watchdog
 
 echo (%time%) %wat% started.
 
-start "Datz_SA" /wait /affinity FF /high "DayZServer_x64.exe" -config=chernarusplus.cfg -servermod=@DayZ-Dynamic-AI-Addon -mod=@Better-Snap-Sounds;@CF;@Dabs_Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Book;@DayZ-Expansion-Core;@DayZ-Expansion-Groups;@DayZ-Expansion-Navigation;@GoreZ;@InediaInfectedAI;@ViewInventoryAnimation;@ZomBerry_Admin_Tools -profiles=.\Profiles\survive
+start "Datz_SA" /wait /affinity FF /high "DayZServer_x64.exe" -config=chernarusplus.cfg -servermod=@DayZ-Dynamic-AI-Addon -mod=@Better-Snap-Sounds;@CF;@Dabs_Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Book;@DayZ-Expansion-Core;@DayZ-Expansion-Groups;@DayZ-Expansion-Navigation;@Drones;@GoreZ;@InediaInfectedAI;@ViewInventoryAnimation;@ZenSleep;@ZomBerry_Admin_Tools -profiles=.\Profiles\survive
 
 echo (%time%) %wat% closed or crashed, restarting.
 
