@@ -105,7 +105,7 @@
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Shamans",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.3,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -118,7 +118,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.4,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -131,7 +131,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.4,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -144,7 +144,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.4,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -157,7 +157,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.4,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -235,7 +235,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -248,7 +248,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -261,7 +261,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -274,7 +274,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -287,7 +287,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -300,7 +300,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
