@@ -2,6 +2,18 @@
     "Version": 2,
     "notification": [
         {
+            "Spatial_Name": "Mercenaries",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.5,
+            "MessageType": 1,
+            "MessageTitle": "Mercenaries AI",
+            "MessageText": [
+                "Friends nearby",
+                "AI Detected: Mercenaries"
+            ]
+        },
+        {
             "Spatial_Name": "East",
             "StartTime": 0.0,
             "StopTime": 24.0,
@@ -10,8 +22,7 @@
             "MessageTitle": "East AI",
             "MessageText": [
                 "Enemies nearby",
-                "AI Detected: East",
-                "Example 3"
+                "AI Detected: East"
             ]
         },
         {
@@ -27,26 +38,51 @@
             ]
         },
         {
-            "Spatial_Name": "Guard",
+            "Spatial_Name": "Shamans",
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 4.5,
             "MessageType": 5,
-            "MessageTitle": "Guard AI",
+            "MessageTitle": "Shamans AI",
             "MessageText": [
-                "Guards detected",
-                "Friendlies in the area, guns down."
+                "Enemies nearby",
+                "AI Detected: Shamans"
             ]
         },
         {
-            "Spatial_Name": "Disabled",
+            "Spatial_Name": "Civilian",
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 10.0,
             "MessageType": 0,
-            "MessageTitle": "Disabled",
+            "MessageTitle": "Civilian",
             "MessageText": [
-                "Disabled"
+                "Enemies nearby",
+                "AI Detected: Civilian"
+            ]
+        },
+        {
+            "Spatial_Name": "Raiders",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 10.0,
+            "MessageType": 0,
+            "MessageTitle": "Raiders",
+            "MessageText": [
+                "Enemies nearby",
+                "AI Detected: Raiders"
+            ]
+        },
+        {
+            "Spatial_Name": "YeetBrigade",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 10.0,
+            "MessageType": 0,
+            "MessageTitle": "YeetBrigade",
+            "MessageText": [
+                "Enemies nearby",
+                "AI Detected: YeetBrigade"
             ]
         }
     ]

@@ -12,10 +12,10 @@
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
     "MemeLevel": 1,
-    "CanRecruitFriendly": 0,
-    "CanRecruitGuards": 1,
+    "CanRecruitFriendly": 1,
+    "CanRecruitGuards": 0,
     "PreventClimb": [],
-    "PlayerFactions": [],
+    "PlayerFactions": ["Mercenaries"],
     "LogAIHitBy": 1,
     "LogAIKilled": 1
 }
