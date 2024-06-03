@@ -6,11 +6,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 1.5,
-            "MessageType": 1,
+            "MessageType": 3,
             "MessageTitle": "Mercenaries AI",
             "MessageText": [
-                "Friends nearby",
-                "AI Detected: Mercenaries"
+                "名友军在附近"
             ]
         },
         {
@@ -18,11 +17,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 1.5,
-            "MessageType": 1,
+            "MessageType": 2,
             "MessageTitle": "East AI",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: East"
+                "俄罗斯士兵在附近"
             ]
         },
         {
@@ -30,11 +28,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 2.5,
-            "MessageType": 3,
+            "MessageType": 2,
             "MessageTitle": "West AI",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: West"
+                "北约士兵在附近"
             ]
         },
         {
@@ -42,11 +39,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 4.5,
-            "MessageType": 5,
+            "MessageType": 4,
             "MessageTitle": "Shamans AI",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: Shamans"
+                "生化防护士兵在附近"
             ]
         },
         {
@@ -54,11 +50,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 10.0,
-            "MessageType": 0,
+            "MessageType": 1,
             "MessageTitle": "Civilian",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: Civilian"
+                "名不友好平民在附近"
             ]
         },
         {
@@ -66,11 +61,10 @@
             "StartTime": 0.0,
             "StopTime": 24.0,
             "AgeTime": 10.0,
-            "MessageType": 0,
+            "MessageType": 1,
             "MessageTitle": "Raiders",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: Raiders"
+                "名土匪流寇在附近"
             ]
         },
         {
@@ -81,8 +75,7 @@
             "MessageType": 0,
             "MessageTitle": "YeetBrigade",
             "MessageText": [
-                "Enemies nearby",
-                "AI Detected: YeetBrigade"
+                "未知敌对类型"
             ]
         }
     ]
