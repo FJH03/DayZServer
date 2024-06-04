@@ -25,11 +25,13 @@ void main()
     //INIT ECONOMY--------------------------------------
     Hive ce = CreateHive();
     if (ce)
+    {
         ce.InitOffline();
+    }
 
     //DATE RESET AFTER ECONOMY INIT-------------------------
     int year, month, day, hour, minute;
-    int reset_month = 9, reset_day = 20;
+    int reset_month = 8, reset_day = 10;
     GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
     if ((month == reset_month) && (day < reset_day))
