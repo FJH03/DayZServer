@@ -2,6 +2,7 @@
 
 ### 服务端模组(-servermod=)
 
+##### @CrimsonZamboniDeathmatch (DM服启动模组)
 ##### @DayZ-Dynamic-AI-Addon (动态刷新ai，服务端拥有即可)
 
 ### 客户端与服务端均必需模组(-mod=)
