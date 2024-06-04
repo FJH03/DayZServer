@@ -40,7 +40,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
@@ -53,7 +53,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
@@ -66,7 +66,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -79,7 +79,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.4,
             "Spatial_MaxAccuracy": 0.7,
             "Spatial_UnlimitedReload": 1
@@ -92,7 +92,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.4,
             "Spatial_MaxAccuracy": 0.7,
             "Spatial_UnlimitedReload": 1
@@ -105,7 +105,7 @@
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Shamans",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -118,7 +118,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -131,7 +131,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -144,7 +144,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -157,7 +157,7 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
@@ -170,7 +170,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
@@ -183,7 +183,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
@@ -196,7 +196,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
@@ -209,7 +209,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.55,
             "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
@@ -222,7 +222,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.55,
             "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
@@ -235,7 +235,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -248,7 +248,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -261,7 +261,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.3,
             "Spatial_MaxAccuracy": 0.6,
             "Spatial_UnlimitedReload": 0
@@ -274,7 +274,7 @@
             "Spatial_Faction": "West",
             "Spatial_Name": "West",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.7,
             "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
@@ -287,7 +287,7 @@
             "Spatial_Faction": "West",
             "Spatial_Name": "West",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.8,
             "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
@@ -300,7 +300,7 @@
             "Spatial_Faction": "YeetBrigade",
             "Spatial_Name": "YeetBrigade",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
@@ -313,7 +313,7 @@
             "Spatial_Faction": "YeetBrigade",
             "Spatial_Name": "YeetBrigade",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.25,
+            "Spatial_Chance": 0.9,
             "Spatial_MinAccuracy": 0.2,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
