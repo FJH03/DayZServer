@@ -1,0 +1,5 @@
+{
+  "$schema": "https://crimsonzamboni.com/deathmatch/schemas/v1/settings.json",
+
+  "$comment": "Please refer to https://crimsonzamboni.com/deathmatch/setup.html#optional-server-settings"
+}

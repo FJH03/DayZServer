@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+    <cargo chance="1.0" name="general">
+        <!-- Medical -->
+        <item name="Heatpack" chance="0.0476" />
+        <item name="Rag" chance="0.0476" />
+        <!-- Ammunition -->
+        <item name="Ammo_308Win" chance="0.0476" />
+        <item name="Ammo_762x54" chance="0.0476" />
+        <item name="Ammo_762x39" chance="0.0476" />
+        <item name="Ammo_12gaPellets" chance="0.0476" />
+        <item name="Ammo_357" chance="0.0476" />
+        <item name="Ammo_380" chance="0.0476" />
+        <item name="Ammo_9x19" chance="0.0476" />
+        <!-- Magazines -->
+        <item name="Mag_IJ70_8Rnd" chance="0.0476" />
+        <item name="Mag_CZ75_15Rnd" chance="0.0476" />
+        <item name="Mag_Glock_15Rnd" chance="0.0476" />
+        <item name="Mag_CZ527_5rnd" chance="0.0476" />
+        <!-- Suppressors -->
+        <item name="ImprovisedSuppressor" chance="0.0476" />
+        <!-- Gloves -->
+        <item name="WorkingGloves_Beige" chance="0.0476" />
+        <item name="WorkingGloves_Black" chance="0.0476" />
+        <item name="WorkingGloves_Brown" chance="0.0476" />
+        <item name="WorkingGloves_Yellow" chance="0.0476" />
+        <!-- Pistols -->
+        <item name="MakarovIJ70" chance="0.0476" />
+        <item name="CZ75" chance="0.0476" />
+        <item name="Glock19" chance="0.0476" />
+    </cargo>
+    <cargo chance="1.0" name="medical">
+        <item name="BandageDressing" chance="0.1" />
+        <item name="Epinephrine" chance="0.1" />
+        <item name="Morphine" chance="0.1" />
+        <item name="Rag" chance="0.1" />
+        <item name="SalineBagIV" chance="0.1" />
+        <!-- Gloves -->
+        <item name="NBCGlovesGray" chance="0.1" />
+        <item name="SurgicalGloves_Blue" chance="0.1" />
+        <item name="SurgicalGloves_Green" chance="0.1" />
+        <item name="SurgicalGloves_LightBlue" chance="0.1" />
+        <item name="SurgicalGloves_White" chance="0.1" />
+    </cargo>
+    <cargo chance="1.0" name="military">
+        <!-- Ammunition -->
+        <item name="Ammo_45ACP" chance="0.0243" />
+        <item name="Ammo_545x39" chance="0.0243" />
+        <item name="Ammo_556x45" chance="0.0243" />
+        <item name="Ammo_9x39AP" chance="0.0243" />
+        <!-- Magazines -->
+        <item name="Mag_1911_7Rnd" chance="0.0243" />
+        <item name="Mag_AK101_30Rnd" chance="0.0243" />
+        <item name="Mag_AK74_30Rnd" chance="0.0243" />
+        <item name="Mag_AK74_45Rnd" chance="0.0243" />
+        <item name="Mag_AKM_30Rnd" chance="0.0243" />
+        <item name="Mag_AKM_Drum75Rnd" chance="0.0243" />
+        <item name="Mag_Deagle_9rnd" chance="0.0243" />
+        <item name="Mag_FNX45_15Rnd" chance="0.0243" />
+        <item name="Mag_MP5_30Rnd" chance="0.0243" />
+        <item name="Mag_Saiga_5Rnd" chance="0.0243" />
+        <item name="Mag_Saiga_8Rnd" chance="0.0243" />
+        <item name="Mag_Saiga_Drum20Rnd" chance="0.0243" />
+        <item name="Mag_STANAGCoupled_30Rnd" chance="0.0243" />
+        <item name="Mag_STANAG_30Rnd" chance="0.0243" />
+        <item name="Mag_STANAG_60Rnd" chance="0.0243" />
+        <item name="Mag_UMP_25Rnd" chance="0.0243" />
+        <!-- Gloves -->
+        <item name="OMNOGloves_Brown" chance="0.0243" />
+        <item name="OMNOGloves_Gray" chance="0.0243" />
+        <item name="TacticalGloves_Beige" chance="0.0243" />
+        <item name="TacticalGloves_Black" chance="0.0243" />
+        <item name="TacticalGloves_Green" chance="0.0243" />
+        <!-- Grenades -->
+        <item name="FlashGrenade" chance="0.0243" />
+        <item name="M67Grenade" chance="0.0243" />
+        <item name="RGD5Grenade" chance="0.0243" />
+        <item name="M18SmokeGrenade_Purple" chance="0.0243" />
+        <item name="M18SmokeGrenade_Green" chance="0.0243" />
+        <item name="M18SmokeGrenade_Red" chance="0.0243" />
+        <item name="M18SmokeGrenade_White" chance="0.0243" />
+        <item name="M18SmokeGrenade_Yellow" chance="0.0243" />
+        <item name="RDG2SmokeGrenade_Black" chance="0.0243" />
+        <item name="RDG2SmokeGrenade_White" chance="0.0243" />
+        <!-- Suppressors -->
+        <item name="AK_Suppressor" chance="0.0243" />
+        <item name="M4_Suppressor" chance="0.0243" />
+        <item name="PistolSuppressor" chance="0.0243" />
+        <!-- Pistols -->
+        <item name="FNX45" chance="0.0243" />
+        <item name="Colt1911" chance="0.0243" />
+        <item name="Deagle" chance="0.0243" />
+    </cargo>
+    <cargo chance="1.0" name="nbc">
+        <item name="GasMask_Filter" chance="0.50" />
+        <item name="GP5GasMask" chance="0.20" />
+        <item name="AntiChemInjector" chance="0.20" />
+        <item name="BandageDressing" chance="0.10" />
+    </cargo>
+    <cargo chance="1.0" name="santa">
+        <item name="M67Grenade" chance="0.125" />
+        <item name="RGD5Grenade" chance="0.125" />
+        <item name="FlashGrenade" chance="0.125" />
+        <item name="ImprovisedSuppressor" chance="0.125" />
+        <item name="AK_Suppressor" chance="0.125" />
+        <item name="M4_Suppressor" chance="0.125" />
+        <item name="PistolSuppressor" chance="0.125" />
+        <item name="LandMineTrap" chance="0.125" />
+    </cargo>
+</randompresets>
