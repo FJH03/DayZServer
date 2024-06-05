@@ -12,7 +12,7 @@ title %wat% Watchdog
 
 echo (%time%) %wat% started.
 
-start "Datz_SA" /wait /affinity FF /high "DayZServer_x64.exe" -config=enoch_DM.cfg -servermod=@CrimsonZamboniDeathmatch;@DayZ-Dynamic-AI-Addon -mod=@Better-Snap-Sounds;@CF;@Dabs_Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Book;@DayZ-Expansion-Core;@DayZ-Expansion-Groups;@DayZ-Expansion-Navigation;@GoreZ;@InediaInfectedAI;@ViewInventoryAnimation;@VPP -profiles=.\Profiles\DM
+start "Datz_SA" /wait /affinity FF /high "DayZServer_x64.exe" -config=enoch_DM.cfg -servermod=@CrimsonZamboniDeathmatch;@DayZ-Dynamic-AI-Addon -mod=@Better-Snap-Sounds;@CF;@Dabs_Framework;@DayZ-Expansion-AI;@DayZ-Expansion-Book;@DayZ-Expansion-Core;@DayZ-Expansion-Groups;@DayZ-Expansion-Navigation;@GoreZ;@InediaInfectedAI;@Static_Vehicles;@ViewInventoryAnimation;@VPP -profiles=.\Profiles\DM
 
 echo (%time%) %wat% closed or crashed, restarting.
 
