@@ -931,7 +931,7 @@
             "all": 0.5
         },
         "DamageToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToPlayerHealthMultiplier": {
             "all": 1.0,
@@ -1056,7 +1056,7 @@
             "all": 10.0
         },
         "PainToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "PainToPlayerHeadMultiplier": {
             "all": 1.399999976158142,
@@ -1129,7 +1129,7 @@
             "lowstr": 0.699999988079071
         },
         "DamageToZombieHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToZombieHeadMeleeMultiplier": {
             "mediumdef": 0.5,
