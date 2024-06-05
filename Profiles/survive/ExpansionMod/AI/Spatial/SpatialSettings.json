@@ -335,7 +335,7 @@
             "Spatial_MinCount": 2,
             "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "PlayerFemaleSuitLoadout.json",
+            "Spatial_Loadout": "YeetBrigadeLoadout.json",
             "Spatial_Faction": "YeetBrigade",
             "Spatial_Name": "YeetBrigade",
             "Spatial_Lootable": 1,
