@@ -5,6 +5,7 @@ cls
 set version=1.0
 
 set wat=Dayz SA
+rmdir /s /q .\mpmissions\deathmatch.enoch\storage_1
 
 title %wat% Watchdog
 
