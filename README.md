@@ -18,7 +18,6 @@
 ##### @Drones (众多无人机及其kit)
 ##### @GoreZ (伪血腥)
 ##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定)
-##### @Static_Vehicles (@Static Vehicles，不可开的各种战地载具)
 ##### @ViewInventoryAnimation (检查背包动作)
 ##### @VPP (超级管理员)
 ##### @ZenSleep (睡眠模组)
