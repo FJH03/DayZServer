@@ -382,7 +382,8 @@
       "attachments": [],
       "accessories": [
         "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive",
         "Ammo_40mm_Explosive",
         "Ammo_40mm_ChemGas",
         "Ammo_40mm_Explosive",
@@ -390,9 +391,8 @@
         "Ammo_40mm_Explosive",
         "Ammo_40mm_ChemGas",
         "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
         "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas"
+        "Ammo_40mm_Explosive"
       ]
     },
     {
