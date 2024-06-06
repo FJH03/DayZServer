@@ -429,6 +429,18 @@
       ]
     },
     {
+      "variants": ["SV98"],
+      "attachments": [
+        ["ACOGOptic_6x"]
+      ],
+      "accessories": [
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd"
+      ]
+    },
+    {
       "variants": ["SKS"],
       "attachments": [
         ["PUScopeOptic"]
@@ -521,18 +533,7 @@
         "choices": [
           "TacticalGloves_Beige",
           "TacticalGloves_Black",
-          "TacticalGloves_Green",
-          "SurgicalGloves_Blue",
-          "SurgicalGloves_Green",
-          "SurgicalGloves_LightBlue",
-          "SurgicalGloves_White",
-          "NBCGlovesGray",
-          "OMNOGloves_Brown",
-          "OMNOGloves_Gray",
-          "WorkingGloves_Beige",
-          "WorkingGloves_Black",
-          "WorkingGloves_Brown",
-          "WorkingGloves_Yellow"
+          "TacticalGloves_Green"
         ]
       },
       {
@@ -567,18 +568,10 @@
         "chance": 100,
         "choices": [
           "BDUPants",
-          "CargoPants_Black",
-          "CargoPants_Green",
-          "HunterPants_Brown",
-          "HunterPants_Summer",
-          "Jeans_Black",
-          "Jeans_Brown",
-          "Jeans_Green",
-          "ParamedicPants_Green",
-          "PrisonUniformPants",
-          "ShortJeans_Black",
-          "ShortJeans_Brown",
-          "ShortJeans_Green"
+          "GorkaPants_Autumn",
+          "GorkaPants_Summer",
+          "GorkaPants_Flat",
+          "GorkaPants_PautRev"
         ]
       },
       {
@@ -587,37 +580,29 @@
           "BallisticHelmet_Black",
           "BallisticHelmet_Green",
           "BallisticHelmet_UN",
+          "BallisticHelmet_BDU",
+          "BallisticHelmet_Desert",
+          "BallisticHelmet_Woodland",
           "GorkaHelmet",
           "Mich2001Helmet",
-          "Ssh68Helmet"
+          "Ssh68Helmet",
+          "USMCPants_Woodland",
+          "USMCPants_Desert"
         ]
       },
       {
         "chance": 100,
         "choices": [
-          "AthleticShoes_Black",
-          "AthleticShoes_Brown",
-          "AthleticShoes_Green",
+          "MilitaryBoots_Black",
+          "MilitaryBoots_Brown",
+          "MilitaryBoots_Beige",
+          "MilitaryBoots_Bluerock",
+          "MilitaryBoots_Redpunk",
           "CombatBoots_Beige",
           "CombatBoots_Black",
           "CombatBoots_Brown",
           "CombatBoots_Green",
-          "CombatBoots_Grey",
-          "HikingBoots_Black",
-          "HikingBoots_Brown",
-          "JungleBoots_Black",
-          "JungleBoots_Brown",
-          "JungleBoots_Green",
-          "JungleBoots_Olive",
-          "MilitaryBoots_Black",
-          "MilitaryBoots_Brown",
-          "Sneakers_Black",
-          "Sneakers_Green",
-          "Wellies_Black",
-          "Wellies_Brown",
-          "Wellies_Green",
-          "WorkingBoots_Brown",
-          "WorkingBoots_Green"
+          "CombatBoots_Grey"
         ]
       },
       {
@@ -640,11 +625,31 @@
       },
       {
         "chance": 100,
-        "choices": ["CivilianBelt", "MilitaryBelt"]
+        "choices": ["MilitaryBelt"]
       },
       {
         "chance": 100,
-        "choices": ["NioshFaceMask", "SurgicalMask"]
+        "choices": [
+          "BalaclavaMask_Black",
+          "BalaclavaMask_Blackskull",
+          "BalaclavaMask_Beige",
+          "BalaclavaMask_Blue",
+          "BalaclavaMask_Green",
+          "BalaclavaMask_White",
+          "Balaclava3Holes_Beige",
+          "Balaclava3Holes_Blue",
+          "Balaclava3Holes_Black",
+          "Balaclava3Holes_Green"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "CoyoteBag_Brown",
+          "CoyoteBag_Green",
+          "AliceBag_Camo",
+          "AliceBag_Creen"
+        ]
       }
     ]
   ],
