@@ -33,32 +33,6 @@
     "Spatial_InOwnTerritory": 0,
     "Group": [
         {
-            "Spatial_MinCount": 2,
-            "Spatial_MaxCount": 3,
-            "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "FireFighterLoadout.json",
-            "Spatial_Faction": "Mercenaries",
-            "Spatial_Name": "Mercenaries",
-            "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.9,
-            "Spatial_MinAccuracy": 0.2,
-            "Spatial_MaxAccuracy": 0.5,
-            "Spatial_UnlimitedReload": 0
-        },
-        {
-            "Spatial_MinCount": 2,
-            "Spatial_MaxCount": 3,
-            "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "SurvivorLoadout.json",
-            "Spatial_Faction": "Mercenaries",
-            "Spatial_Name": "Mercenaries",
-            "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.9,
-            "Spatial_MinAccuracy": 0.2,
-            "Spatial_MaxAccuracy": 0.5,
-            "Spatial_UnlimitedReload": 0
-        },
-        {
             "Spatial_MinCount": 1,
             "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
