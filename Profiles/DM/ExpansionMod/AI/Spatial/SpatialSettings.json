@@ -98,8 +98,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "EastaLoadout.json",
             "Spatial_Faction": "East",
@@ -111,8 +111,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "EastbLoadout.json",
             "Spatial_Faction": "East",
@@ -124,8 +124,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "EastcLoadout.json",
             "Spatial_Faction": "East",
@@ -137,8 +137,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "GorkaLoadout.json",
             "Spatial_Faction": "East",
@@ -150,8 +150,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "TTSKOLoadout.json",
             "Spatial_Faction": "East",
@@ -202,8 +202,8 @@
             "Spatial_UnlimitedReload": 0
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "WestaLoadout.json",
             "Spatial_Faction": "West",
@@ -215,8 +215,8 @@
             "Spatial_UnlimitedReload": 1
         },
         {
-            "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
             "Spatial_Weight": 200.0,
             "Spatial_Loadout": "WestbLoadout.json",
             "Spatial_Faction": "West",
