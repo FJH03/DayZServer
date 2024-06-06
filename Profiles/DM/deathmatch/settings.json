@@ -1,5 +1,4 @@
 {
-  "$schema": "https://crimsonzamboni.com/deathmatch/schemas/v1/settings.json",
   "maxRounds": 0,
   "maxUptimeHours": 0,
   "roundMinutes": 20,
