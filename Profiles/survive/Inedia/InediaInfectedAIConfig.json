@@ -931,7 +931,7 @@
             "all": 0.5
         },
         "DamageToPlayerHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "DamageToPlayerHealthMultiplier": {
             "all": 1.0,
@@ -1056,80 +1056,80 @@
             "all": 10.0
         },
         "PainToPlayerHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "PainToPlayerHeadMultiplier": {
             "all": 1.399999976158142,
-            "SurvivorBase": 1.0,
+            "SurvivorBase": 0,
             "highstr": 1.7999999523162842,
             "mediumstr": 1.600000023841858,
             "lowstr": 1.399999976158142
         },
         "PainToPlayerHeadInBlockMultiplier": {
             "all": 0.699999988079071,
-            "SurvivorBase": 0.5,
+            "SurvivorBase": 0,
             "highstr": 0.8999999761581421,
             "mediumstr": 0.800000011920929,
             "lowstr": 0.699999988079071
         },
         "PainToPlayerArmsMultiplier": {
             "all": 1.399999976158142,
-            "SurvivorBase": 1.0,
+            "SurvivorBase": 0,
             "highstr": 1.7999999523162842,
             "mediumstr": 1.600000023841858,
             "lowstr": 1.399999976158142
         },
         "PainToPlayerArmsInBlockMultiplier": {
             "all": 0.699999988079071,
-            "SurvivorBase": 0.5,
+            "SurvivorBase": 0,
             "highstr": 0.8999999761581421,
             "mediumstr": 0.800000011920929,
             "lowstr": 0.699999988079071
         },
         "PainToPlayerArmsDisarmMultiplier": {
             "all": 0.30000001192092898,
-            "SurvivorBase": 0.30000001192092898,
+            "SurvivorBase": 0,
             "highstr": 0.5,
             "mediumstr": 0.4000000059604645,
             "lowstr": 0.30000001192092898
         },
         "PainToPlayerArmsInBlockDisarmMultiplier": {
             "all": 0.15000000596046449,
-            "SurvivorBase": 0.15000000596046449,
+            "SurvivorBase": 0,
             "highstr": 0.25,
             "mediumstr": 0.20000000298023225,
             "lowstr": 0.15000000596046449
         },
         "PainToPlayerLegsMultiplier": {
             "all": 1.399999976158142,
-            "SurvivorBase": 1.0,
+            "SurvivorBase": 0,
             "highstr": 1.7999999523162842,
             "mediumstr": 1.600000023841858,
             "lowstr": 1.399999976158142
         },
         "PainToPlayerLegsInBlockMultiplier": {
             "all": 0.699999988079071,
-            "SurvivorBase": 0.5,
+            "SurvivorBase": 0,
             "highstr": 0.8999999761581421,
             "mediumstr": 0.800000011920929,
             "lowstr": 0.699999988079071
         },
         "PainToPlayerTorsoMultiplier": {
             "all": 1.399999976158142,
-            "SurvivorBase": 1.0,
+            "SurvivorBase": 0,
             "highstr": 1.7999999523162842,
             "mediumstr": 1.600000023841858,
             "lowstr": 1.399999976158142
         },
         "PainToPlayerTorsoInBlockMultiplier": {
             "all": 0.699999988079071,
-            "SurvivorBase": 0.5,
+            "SurvivorBase": 0,
             "highstr": 0.8999999761581421,
             "mediumstr": 0.800000011920929,
             "lowstr": 0.699999988079071
         },
         "DamageToZombieHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "DamageToZombieHeadMeleeMultiplier": {
             "mediumdef": 0.5,
@@ -1460,10 +1460,10 @@
         "SmellLifetimeSeconds": 120.0,
         "SmellsCountOnMapLimit": 1000,
         "FootstepsNoiseHandlerIsActive": 1,
-        "SearchBodyToViewCargo": 0,
+        "SearchBodyToViewCargo": 1,
         "SearchBodyToViewCargoSeconds": 3.0,
         "SearchBodyExtendLootingToPlayersInRadiusMeters": 30.0,
-        "SearchBodyOnlyEmptyHands": 0,
+        "SearchBodyOnlyEmptyHands": 1,
         "QuietDoorOpeningMechanicIsActive": 1,
         "QuietDoorOpeningMechanicDisabledForOpening": 1,
         "QuietDoorOpeningMechanicSeconds": 3.0,

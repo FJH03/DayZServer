@@ -521,10 +521,7 @@
     ["FlashGrenade", "M67Grenade", "RGD5Grenade", "Grenade_ChemGas"]
   ],
   "knives": [
-    "CombatKnife",
-    "HuntingKnife",
-    "KitchenKnife",
-    "SteakKnife"
+    "CombatKnife"
   ],
   "outfits": [
     [
@@ -571,7 +568,9 @@
           "GorkaPants_Autumn",
           "GorkaPants_Summer",
           "GorkaPants_Flat",
-          "GorkaPants_PautRev"
+          "GorkaPants_PautRev",
+          "USMCPants_Woodland",
+          "USMCPants_Desert"
         ]
       },
       {
@@ -584,10 +583,7 @@
           "BallisticHelmet_Desert",
           "BallisticHelmet_Woodland",
           "GorkaHelmet",
-          "Mich2001Helmet",
-          "Ssh68Helmet",
-          "USMCPants_Woodland",
-          "USMCPants_Desert"
+          "Mich2001Helmet"
         ]
       },
       {
