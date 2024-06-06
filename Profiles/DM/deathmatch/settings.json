@@ -32,6 +32,107 @@
   },
   "primaryWeapons": [
     {
+      "variants": ["ASVAL"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"]
+      ],
+      "accessories": [
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd"
+      ]
+    },
+    {
+      "variants": ["Aug"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["M4_Suppressor"]
+      ],
+      "accessories": [
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd"
+      ]
+    },
+    {
+      "variants": ["M14"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["ImprovisedSuppressor"]
+      ],
+      "accessories": [
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor"
+      ]
+    },
+    {
+      "variants": ["VSS"],
+      "attachments": [
+        ["PSO1Optic", "PSO11Optic"]
+      ],
+      "accessories": [
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd"
+      ]
+    },
+    {
+      "variants": ["FAL"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["Fal_FoldingBttstck", "Fal_OeBttstck"],
+        ["ImprovisedSuppressor"]
+      ],
+      "accessories": [
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor"
+      ]
+    },
+    {
+      "variants": ["SVD"],
+      "attachments": [
+        ["PSO1Optic", "PSO11Optic"],
+        ["AK_Suppressor"]
+      ],
+      "accessories": [
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd"
+      ]
+    },
+    {
       "variants": ["MP5K"],
       "attachments": [
         ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
@@ -86,7 +187,7 @@
       "attachments": [
         ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
         ["M4_MPHndgrd", "M4_PlasticHndgrd", "M4_RISHndgrd"],
-        ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck"]
+        ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck", "M4_Suppressor"]
       ],
       "accessories": [
         "Mag_STANAG_30Rnd",
@@ -277,6 +378,24 @@
   ],
   "secondaryWeapons": [
     {
+      "variants": ["M79"],
+      "attachments": [],
+      "accessories": [
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas"
+      ]
+    },
+    {
       "variants": ["Winchester70"],
       "attachments": [
         ["HuntingOptic"]
@@ -368,160 +487,17 @@
     }
   ],
   "crateWeapons": [
-    {
-      "variants": ["VSS"],
-      "attachments": [
-        ["PSO1Optic", "PSO11Optic"]
-      ],
-      "accessories": [
-        "Mag_VSS_10Rnd",
-        "Mag_VSS_10Rnd",
-        "Mag_VSS_10Rnd",
-        "Mag_VSS_10Rnd",
-        "Mag_VSS_10Rnd",
-        "Mag_VSS_10Rnd"
-      ]
-    },
-    {
-      "variants": ["FAL"],
-      "attachments": [
-        ["ACOGOptic", "ACOGOptic_6x"],
-        ["Fal_FoldingBttstck", "Fal_OeBttstck"],
-        ["ImprovisedSuppressor"]
-      ],
-      "accessories": [
-        "Mag_FAL_20Rnd",
-        "Mag_FAL_20Rnd",
-        "Mag_FAL_20Rnd",
-        "Mag_FAL_20Rnd",
-        "Mag_FAL_20Rnd",
-        "Mag_FAL_20Rnd",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor"
-      ]
-    },
-    {
-      "variants": ["SVD"],
-      "attachments": [
-        ["PSO1Optic", "PSO11Optic"],
-        ["AK_Suppressor"]
-      ],
-      "accessories": [
-        "Mag_SVD_10Rnd",
-        "Mag_SVD_10Rnd",
-        "Mag_SVD_10Rnd",
-        "Mag_SVD_10Rnd",
-        "Mag_SVD_10Rnd",
-        "Mag_SVD_10Rnd"
-      ]
-    },
-    {
-      "variants": ["ASVAL"],
-      "attachments": [
-        ["ACOGOptic", "ACOGOptic_6x"]
-      ],
-      "accessories": [
-        "Mag_VAL_20Rnd",
-        "Mag_VAL_20Rnd",
-        "Mag_VAL_20Rnd",
-        "Mag_VAL_20Rnd",
-        "Mag_VAL_20Rnd",
-        "Mag_VAL_20Rnd"
-      ]
-    },
-    {
-      "variants": ["Aug"],
-      "attachments": [
-        ["ACOGOptic", "ACOGOptic_6x"],
-        ["M4_Suppressor"]
-      ],
-      "accessories": [
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd"
-      ]
-    },
-    {
-      "variants": ["M79"],
-      "attachments": [],
-      "accessories": [
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas",
-        "Ammo_40mm_Explosive",
-        "Ammo_40mm_ChemGas"
-      ]
-    },
-    {
-      "variants": ["M14"],
-      "attachments": [
-        ["ACOGOptic", "ACOGOptic_6x"],
-        ["ImprovisedSuppressor"]
-      ],
-      "accessories": [
-        "Mag_M14_10Rnd",
-        "Mag_M14_10Rnd",
-        "Mag_M14_10Rnd",
-        "Mag_M14_10Rnd",
-        "Mag_M14_10Rnd",
-        "Mag_M14_10Rnd",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor",
-        "ImprovisedSuppressor"
-      ]
-    }
+
   ],
   "crateArmor": [
     [
-      "PlateCarrierVest",
-      "PlateCarrierVest_Black",
-      "PlateCarrierVest_Green",
-      "PlateCarrierVest_Camo",
-      "PressVest_Blue",
-      "PressVest_LightBlue",
-      "PoliceVest"
+
     ],
     [
-      "BallisticHelmet_Black",
-      "BallisticHelmet_Green",
-      "BallisticHelmet_UN",
-      "GorkaHelmet",
-      "Mich2001Helmet",
-      "Ssh68Helmet",
-      "ZSh3PilotHelmet"
+
     ],
     [
-      "TacticalGloves_Beige",
-      "TacticalGloves_Black",
-      "TacticalGloves_Green",
-      "SurgicalGloves_Blue",
-      "SurgicalGloves_Green",
-      "SurgicalGloves_LightBlue",
-      "SurgicalGloves_White",
-      "NBCGlovesGray",
-      "OMNOGloves_Brown",
-      "OMNOGloves_Gray",
-      "WorkingGloves_Beige",
-      "WorkingGloves_Black",
-      "WorkingGloves_Brown",
-      "WorkingGloves_Yellow"
+
     ]
   ],
   "crateOther": [
@@ -540,6 +516,25 @@
   ],
   "outfits": [
     [
+      {
+        "chance": 100,
+        "choices": [
+          "TacticalGloves_Beige",
+          "TacticalGloves_Black",
+          "TacticalGloves_Green",
+          "SurgicalGloves_Blue",
+          "SurgicalGloves_Green",
+          "SurgicalGloves_LightBlue",
+          "SurgicalGloves_White",
+          "NBCGlovesGray",
+          "OMNOGloves_Brown",
+          "OMNOGloves_Gray",
+          "WorkingGloves_Beige",
+          "WorkingGloves_Black",
+          "WorkingGloves_Brown",
+          "WorkingGloves_Yellow"
+        ]
+      },
       {
         "chance": 100,
         "choices": [
@@ -589,6 +584,17 @@
       {
         "chance": 100,
         "choices": [
+          "BallisticHelmet_Black",
+          "BallisticHelmet_Green",
+          "BallisticHelmet_UN",
+          "GorkaHelmet",
+          "Mich2001Helmet",
+          "Ssh68Helmet"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
           "AthleticShoes_Black",
           "AthleticShoes_Brown",
           "AthleticShoes_Green",
@@ -617,62 +623,19 @@
       {
         "chance": 100,
         "choices": [
+          "PlateCarrierVest",
+          "PlateCarrierVest_Black",
+          "PlateCarrierVest_Green",
+          "PlateCarrierVest_Camo",
+          "PressVest_Blue",
+          "PressVest_LightBlue",
+          "PoliceVest",
           "HuntingVest",
           "SmershVest",
           "UKAssVest_Black",
           "UKAssVest_Camo",
           "UKAssVest_Khaki",
           "UKAssVest_Olive"
-        ]
-      },
-      {
-        "chance": 50,
-        "choices": [
-          "BeanieHat_Beige",
-          "BeanieHat_Black",
-          "BeanieHat_Blue",
-          "BeanieHat_Brown",
-          "BeanieHat_Green",
-          "BeanieHat_Grey",
-          "BeanieHat_Pink",
-          "BeanieHat_Red",
-          "BoonieHat_Black",
-          "BoonieHat_Blue",
-          "BoonieHat_DPM",
-          "BoonieHat_Dubok",
-          "BoonieHat_Flecktran",
-          "BoonieHat_NavyBlue",
-          "BoonieHat_Olive",
-          "BoonieHat_Orange",
-          "BoonieHat_Red",
-          "BoonieHat_Tan",
-          "CowboyHat_Brown",
-          "CowboyHat_black",
-          "CowboyHat_darkBrown",
-          "CowboyHat_green",
-          "OfficerHat",
-          "BaseballCap_Beige",
-          "BaseballCap_Blue",
-          "BaseballCap_Black",
-          "BaseballCap_CMMG_Black",
-          "BaseballCap_CMMG_Pink",
-          "BaseballCap_Camo",
-          "BaseballCap_Olive",
-          "BaseballCap_Pink",
-          "BaseballCap_Red"
-        ]
-      },
-      {
-        "chance": 50,
-        "choices": [
-          "AviatorGlasses",
-          "DesignerGlasses",
-          "SportGlasses_Black",
-          "SportGlasses_Blue",
-          "SportGlasses_Green",
-          "SportGlasses_Orange",
-          "ThickFramesGlasses",
-          "ThinFramesGlasses"
         ]
       },
       {
