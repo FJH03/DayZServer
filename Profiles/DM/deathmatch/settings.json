@@ -187,7 +187,8 @@
       "attachments": [
         ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
         ["M4_MPHndgrd", "M4_PlasticHndgrd", "M4_RISHndgrd"],
-        ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck", "M4_Suppressor"]
+        ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck"],
+        ["M4_Suppressor"]
       ],
       "accessories": [
         "Mag_STANAG_30Rnd",
@@ -558,7 +559,13 @@
           "QuiltedJacket_Green",
           "TacticalShirt_Black",
           "TacticalShirt_Olive",
-          "WoolCoat_Black"
+          "WoolCoat_Black",
+          "GorkaEJacket_Summer",
+          "GorkaEJacket_Autumn",
+          "GorkaEJacket_Flat",
+          "GorkaEJacket_PautRev",
+          "USMCJacket_Desert",
+          "USMCJacket_Woodland"
         ]
       },
       {
@@ -570,7 +577,8 @@
           "GorkaPants_Flat",
           "GorkaPants_PautRev",
           "USMCPants_Woodland",
-          "USMCPants_Desert"
+          "USMCPants_Desert",
+          "TTSKOPants"
         ]
       },
       {
@@ -583,6 +591,8 @@
           "BallisticHelmet_Desert",
           "BallisticHelmet_Woodland",
           "GorkaHelmet",
+          "GorkaHelmet_Green",
+          "GorkaHelmet_Black",
           "Mich2001Helmet"
         ]
       },
@@ -641,10 +651,16 @@
       {
         "chance": 100,
         "choices": [
+          "AssaultBag_Ttsko",
+          "AssaultBag_Black",
+          "AssaultBag_Green",
           "CoyoteBag_Brown",
           "CoyoteBag_Green",
           "AliceBag_Camo",
-          "AliceBag_Creen"
+          "AliceBag_Creen",
+          "AliceBag_Black",
+          "AliceBag_NearBubble",
+          "AliceBag_FarBubble"
         ]
       }
     ]
