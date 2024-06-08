@@ -54,8 +54,6 @@
         "Mag_Aug_30Rnd",
         "Mag_Aug_30Rnd",
         "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
-        "Mag_Aug_30Rnd",
         "Mag_Aug_30Rnd"
       ]
     },
@@ -132,56 +130,6 @@
       ]
     },
     {
-      "variants": ["MP5K"],
-      "attachments": [
-        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
-        ["MP5_PlasticHndgrd", "MP5_RailHndgrd"],
-        ["MP5k_StockBttstck"]
-      ],
-      "accessories": [
-        "Mag_MP5_30Rnd",
-        "Mag_MP5_30Rnd",
-        "Mag_MP5_30Rnd",
-        "Mag_MP5_30Rnd"
-      ]
-    },
-    {
-      "variants": ["UMP45"],
-      "attachments": [
-        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"]
-      ],
-      "accessories": [
-        "Mag_UMP_25Rnd",
-        "Mag_UMP_25Rnd",
-        "Mag_UMP_25Rnd",
-        "Mag_UMP_25Rnd"
-      ]
-    },
-    {
-      "variants": ["AKS74U", "AKS74U_Black", "AKS74U_Green"],
-      "attachments": [
-        [
-          "AK_FoldingBttstck",
-          "AK_FoldingBttstck_Black",
-          "AK_FoldingBttstck_Green",
-          "AK_PlasticBttstck",
-          "AK_PlasticBttstck_Black",
-          "AK_PlasticBttstck_Green",
-          "AK_WoodBttstck",
-          "AK_WoodBttstck_Black",
-          "AK_WoodBttstck_Camo",
-          "AK74_WoodBttstck",
-          "AKS74U_Bttstck"
-        ]
-      ],
-      "accessories": [
-        "Mag_AK74_30Rnd",
-        "Mag_AK74_30Rnd",
-        "Mag_AK74_30Rnd",
-        "Mag_AK74_30Rnd"
-      ]
-    },
-    {
       "variants": ["M4A1", "M4A1_Black", "M4A1_Green"],
       "attachments": [
         ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic", "M4_CarryHandleOptic", "ACOGOptic", "ACOGOptic_6x"],
@@ -200,7 +148,7 @@
     {
       "variants": ["AK101", "AK101_Black", "AK101_Green"],
       "attachments": [
-        ["KobraOptic", "kashtanOptic"],
+        ["kashtanOptic", "KobraOptic"],
         [
           "AK_PlasticHndgrd",
           "AK_RailHndgrd",
@@ -226,7 +174,6 @@
         ]
       ],
       "accessories": [
-        "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
@@ -236,7 +183,7 @@
     {
       "variants": ["AK74", "AK74_Black", "AK74_Green"],
       "attachments": [
-        ["KobraOptic","kashtanOptic"],
+        ["kashtanOptic", "KobraOptic"],
         [
           "AK_PlasticHndgrd",
           "AK_RailHndgrd",
@@ -262,7 +209,6 @@
         ]
       ],
       "accessories": [
-        "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
@@ -305,15 +251,6 @@
       ]
     },
     {
-      "variants": ["Izh43Shotgun", "SawedoffIzh43Shotgun", "Mp133Shotgun"],
-      "attachments": [],
-      "accessories": [
-        "Ammo_12gaPellets",
-        "Ammo_12gaPellets",
-        "Ammo_12gaPellets"
-      ]
-    },
-    {
       "variants": ["Saiga"],
       "attachments": [
         ["Saiga_Bttstck"]
@@ -344,7 +281,9 @@
         "Mag_FAMAS_25Rnd",
         "Mag_FAMAS_25Rnd"
       ]
-    },
+    }
+  ],
+  "secondaryWeapons": [
     {
       "variants": ["AugShort"],
       "attachments": [],
@@ -377,9 +316,66 @@
         "Mag_PP19_64Rnd",
         "Mag_PP19_64Rnd"
       ]
-    }
-  ],
-  "secondaryWeapons": [
+    },
+    {
+      "variants": ["MP5K"],
+      "attachments": [
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
+        ["MP5_PlasticHndgrd", "MP5_RailHndgrd"],
+        ["MP5k_StockBttstck"]
+      ],
+      "accessories": [
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd"
+      ]
+    },
+    {
+      "variants": ["Izh43Shotgun", "SawedoffIzh43Shotgun", "Mp133Shotgun"],
+      "attachments": [],
+      "accessories": [
+        "Ammo_12gaPellets",
+        "Ammo_12gaPellets",
+        "Ammo_12gaPellets"
+      ]
+    },
+    {
+      "variants": ["UMP45"],
+      "attachments": [
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"]
+      ],
+      "accessories": [
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd"
+      ]
+    },
+    {
+      "variants": ["AKS74U", "AKS74U_Black", "AKS74U_Green"],
+      "attachments": [
+        [
+          "AK_FoldingBttstck",
+          "AK_FoldingBttstck_Black",
+          "AK_FoldingBttstck_Green",
+          "AK_PlasticBttstck",
+          "AK_PlasticBttstck_Black",
+          "AK_PlasticBttstck_Green",
+          "AK_WoodBttstck",
+          "AK_WoodBttstck_Black",
+          "AK_WoodBttstck_Camo",
+          "AK74_WoodBttstck",
+          "AKS74U_Bttstck"
+        ]
+      ],
+      "accessories": [
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd"
+      ]
+    },
     {
       "variants": ["M79"],
       "attachments": [],
