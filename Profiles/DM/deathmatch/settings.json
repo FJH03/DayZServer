@@ -184,12 +184,13 @@
     {
       "variants": ["M4A1", "M4A1_Black", "M4A1_Green"],
       "attachments": [
-        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic", "M4_CarryHandleOptic", "ACOGOptic", "ACOGOptic_6x"],
         ["M4_MPHndgrd", "M4_PlasticHndgrd", "M4_RISHndgrd"],
         ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck"],
         ["M4_Suppressor"]
       ],
       "accessories": [
+        "Mag_STANAG_30Rnd",
         "Mag_STANAG_30Rnd",
         "Mag_STANAG_30Rnd",
         "Mag_STANAG_30Rnd",
@@ -199,7 +200,7 @@
     {
       "variants": ["AK101", "AK101_Black", "AK101_Green"],
       "attachments": [
-        ["KobraOptic"],
+        ["KobraOptic", "kashtanOptic"],
         [
           "AK_PlasticHndgrd",
           "AK_RailHndgrd",
@@ -225,6 +226,7 @@
         ]
       ],
       "accessories": [
+        "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
         "Mag_AK101_30Rnd",
@@ -234,7 +236,7 @@
     {
       "variants": ["AK74", "AK74_Black", "AK74_Green"],
       "attachments": [
-        ["KobraOptic"],
+        ["KobraOptic","kashtanOptic"],
         [
           "AK_PlasticHndgrd",
           "AK_RailHndgrd",
@@ -260,6 +262,7 @@
         ]
       ],
       "accessories": [
+        "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
         "Mag_AK74_30Rnd",
