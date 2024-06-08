@@ -7,8 +7,8 @@
   "infectedChance": 100,
   "infectedPlayerFactor": 5,
   "forceInfectedPlayerLimit": 0,
-  "minimumInfected": 25,
-  "maximumInfected": 50,
+  "minimumInfected": 15,
+  "maximumInfected": 20,
   "saveLeaderboards": 0,
   "disableWalls": 1,
   "events": {
