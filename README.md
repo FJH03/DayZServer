@@ -15,7 +15,6 @@
 ##### @DayZ-Expansion-Core (expansion核心)
 ##### @DayZ-Expansion-Groups (expansion组队功能)
 ##### @DayZ-Expansion-Navigation (expansion地图GPS)
-##### @Drones (众多无人机及其kit)
 ##### @GoreZ (伪血腥)
 ##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定)
 ##### @ViewInventoryAnimation (检查背包动作)
