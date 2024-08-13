@@ -19,6 +19,4 @@
 ##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定)
 ##### @ViewInventoryAnimation (检查背包动作)
 ##### @VPP (超级管理员)
-##### @Winter_Chernarus_V2 (@Winter Chernarus V2，冬天车臣尼亚)
-##### @Winter_Livonia (@Winter Livonia，冬天鹿岛)
 ##### @ZenSleep (睡眠模组)
