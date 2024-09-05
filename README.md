@@ -7,7 +7,8 @@
 
 ### 客户端与服务端均必需模组(-mod=)
 
-##### @Better-Snap-Sounds 
+##### @Better-Snap-Sounds
+##### @BulletStacks
 ##### @CF (必备框架)
 ##### @Dabs_Framework (@Dabs Framework，必备框架)
 ##### @DayZ-Expansion-AI
@@ -15,6 +16,7 @@
 ##### @DayZ-Expansion-Core (expansion核心)
 ##### @DayZ-Expansion-Groups (expansion组队功能)
 ##### @DayZ-Expansion-Navigation (expansion地图GPS)
+##### @Drones (无人机)
 ##### @GoreZ (伪血腥)
 ##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定)
 ##### @ViewInventoryAnimation (检查背包动作)
