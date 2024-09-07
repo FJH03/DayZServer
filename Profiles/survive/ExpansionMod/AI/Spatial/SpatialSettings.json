@@ -267,45 +267,6 @@
             "Spatial_UnlimitedReload": 0
         },
         {
-            "Spatial_MinCount": 2,
-            "Spatial_MaxCount": 3,
-            "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "SurvivorfLoadout.json",
-            "Spatial_Faction": "Raiders",
-            "Spatial_Name": "Raiders",
-            "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
-            "Spatial_UnlimitedReload": 0
-        },
-        {
-            "Spatial_MinCount": 2,
-            "Spatial_MaxCount": 3,
-            "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "SurvivornwLoadout.json",
-            "Spatial_Faction": "Raiders",
-            "Spatial_Name": "Raiders",
-            "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
-            "Spatial_UnlimitedReload": 0
-        },
-        {
-            "Spatial_MinCount": 2,
-            "Spatial_MaxCount": 3,
-            "Spatial_Weight": 200.0,
-            "Spatial_Loadout": "SurvivorpLoadout.json",
-            "Spatial_Faction": "Raiders",
-            "Spatial_Name": "Raiders",
-            "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
-            "Spatial_UnlimitedReload": 0
-        },
-        {
             "Spatial_MinCount": 1,
             "Spatial_MaxCount": 2,
             "Spatial_Weight": 200.0,

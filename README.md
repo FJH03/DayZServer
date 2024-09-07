@@ -7,7 +7,6 @@
 
 ### 客户端与服务端均必需模组(-mod=)
 
-##### @Base_Furniture_Mods_2.0 (@Base Furniture Mods 2.0)
 ##### @Better-Snap-Sounds
 ##### @BulletStacks
 ##### @CF (必备框架)
@@ -25,3 +24,4 @@
 ##### @ViewInventoryAnimation (检查背包动作)
 ##### @VPP (超级管理员)
 ##### @ZenSleep (睡眠模组)
+##### @ZenVirus (感染模组)
