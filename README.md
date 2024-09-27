@@ -7,6 +7,7 @@
 
 ### 客户端与服务端均必需模组(-mod=)
 
+##### @Air_Strike (@Air Strike，呼叫空袭)
 ##### @Better-Snap-Sounds
 ##### @BulletStacks
 ##### @CF (必备框架)
