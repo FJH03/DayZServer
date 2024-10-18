@@ -1379,7 +1379,7 @@
             "all": 1
         },
         "ThrowingProjectilesHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ThrowingProjectilesHandlerDamageMultiplier": {
             "all": 0.8999999761581421,
