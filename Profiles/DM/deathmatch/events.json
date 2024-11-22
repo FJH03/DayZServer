@@ -1,0 +1,74 @@
+{
+  "$schema": "https://crimsonzamboni.com/deathmatch/schemas/v1/events.json",
+  "custom": [
+    {
+      "name": "clue",
+      "displayName": "Clue round",
+      "greeting": {
+        "title": "==== CLUE ===",
+        "details": "I didn't do it!"
+      },
+      "outfits": [
+        [
+          {"choices": ["QuiltedJacket_Red"]},
+          {"choices": ["Breeches_Red"]},
+          {"choices": ["Sneakers_Red"]}
+        ],
+        [
+          {"choices": ["WoolCoat_Green"]},
+          {"choices": ["Jeans_Green"]},
+          {"choices": ["Sneakers_Green"]}
+        ],
+        [
+          {"choices": ["Raincoat_Yellow"]},
+          {"choices": ["CargoPants_Beige"]},
+          {"choices": ["DressShoes_Beige"]}
+        ],
+        [
+          {"choices": ["QuiltedJacket_Violet"]},
+          {"choices": ["CanvasPants_Violet"]},
+          {"choices": ["JoggingShoes_Violet"]}
+        ],
+        [
+          {"choices": ["WomanSuit_Blue"]},
+          {"choices": ["Skirt_Blue"]},
+          {"choices": ["AthleticShoes_Blue"]}
+        ],
+        [
+          {"choices": ["WomanSuit_White"]},
+          {"choices": ["SlacksPants_White"]},
+          {"choices": ["DressShoes_White"]}
+        ]
+      ],
+      "primaryWeapons": [
+        {"variants": ["Flashlight"]},
+        {"variants": ["CombatKnife"]},
+        {"variants": ["Pipe"]},
+        {"variants": ["Magnum"], "accessories": ["Ammo_357"]},
+        {"variants": ["Rope"]},
+        {"variants": ["PipeWrench"]}
+      ],
+      "secondaryWeapons": [
+        {"variants": ["LongWoodenStick"]}
+      ],
+      "crateWeapons": [
+        {
+          "variants": ["Magnum"],
+          "accessories": ["Ammo_357", "Ammo_357", "Ammo_357", "Ammo_357"]
+        }
+      ],
+      "crateArmor": [
+        ["PoliceVest"],
+        ["PoliceCap"],
+        ["BaseballBat"]
+      ],
+      "crateOther": [
+        ["Bandage"],
+        ["SalineBagIV"],
+        ["Splint"],
+        ["Morphine"],
+        ["Epinephrine"]
+      ]
+    }
+  ]
+}

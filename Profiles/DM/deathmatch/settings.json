@@ -1,0 +1,801 @@
+{
+  "maxRounds": 0,
+  "maxUptimeHours": 0,
+  "roundMinutes": 20,
+  "arenaRotation": [],
+  "excludeArenas": [],
+  "infectedChance": 100,
+  "infectedPlayerFactor": 5,
+  "forceInfectedPlayerLimit": 0,
+  "minimumInfected": 15,
+  "maximumInfected": 20,
+  "saveLeaderboards": 0,
+  "disableWalls": 1,
+  "events": {
+    "chance": 0.0,
+    "types": []
+  },
+  "christmas": 0,
+  "voteMinimumPlayers": 2,
+  "voteMinutes": 1,
+  "ignoreNight": 0,
+  "disableSprintLeaning": 0,
+  "maxIdleSeconds": 0,
+  "killFeed": 1,
+  "commandCharacter": "/",
+  "admins": [],
+  "killFeedWebhook": {
+    "type": "",
+    "url": "",
+    "playerTracking": 0
+  },
+  "primaryWeapons": [
+    {
+      "variants": ["ASVAL"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"]
+      ],
+      "accessories": [
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd",
+        "Mag_VAL_20Rnd"
+      ]
+    },
+    {
+      "variants": ["Aug"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["M4_Suppressor"]
+      ],
+      "accessories": [
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd"
+      ]
+    },
+    {
+      "variants": ["M14"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["ImprovisedSuppressor"]
+      ],
+      "accessories": [
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "Mag_M14_10Rnd",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor"
+      ]
+    },
+    {
+      "variants": ["VSS"],
+      "attachments": [
+        ["PSO1Optic", "PSO11Optic"]
+      ],
+      "accessories": [
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd",
+        "Mag_VSS_10Rnd"
+      ]
+    },
+    {
+      "variants": ["FAL"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"],
+        ["Fal_FoldingBttstck", "Fal_OeBttstck"],
+        ["ImprovisedSuppressor"]
+      ],
+      "accessories": [
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_FAL_20Rnd",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor",
+        "ImprovisedSuppressor"
+      ]
+    },
+    {
+      "variants": ["SVD"],
+      "attachments": [
+        ["PSO1Optic", "PSO11Optic"],
+        ["AK_Suppressor"]
+      ],
+      "accessories": [
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd",
+        "Mag_SVD_10Rnd"
+      ]
+    },
+    {
+      "variants": ["M4A1", "M4A1_Black", "M4A1_Green"],
+      "attachments": [
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic", "M4_CarryHandleOptic", "ACOGOptic", "ACOGOptic_6x"],
+        ["M4_MPHndgrd", "M4_PlasticHndgrd", "M4_RISHndgrd"],
+        ["M4_CQBBttstck", "M4_MPBttstck", "M4_OEBttstck"],
+        ["M4_Suppressor"]
+      ],
+      "accessories": [
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd"
+      ]
+    },
+    {
+      "variants": ["AK101", "AK101_Black", "AK101_Green"],
+      "attachments": [
+        ["kashtanOptic", "KobraOptic"],
+        [
+          "AK_PlasticHndgrd",
+          "AK_RailHndgrd",
+          "AK_RailHndgrd_Black",
+          "AK_RailHndgrd_Green",
+          "AK_WoodHndgrd",
+          "AK_WoodHndgrd_Black",
+          "AK_WoodHndgrd_Camo",
+          "AK74_Hndgrd"
+        ],
+        [
+          "AK_FoldingBttstck",
+          "AK_FoldingBttstck_Black",
+          "AK_FoldingBttstck_Green",
+          "AK_PlasticBttstck",
+          "AK_PlasticBttstck_Black",
+          "AK_PlasticBttstck_Green",
+          "AK_WoodBttstck",
+          "AK_WoodBttstck_Black",
+          "AK_WoodBttstck_Camo",
+          "AK74_WoodBttstck",
+          "AKS74U_Bttstck"
+        ]
+      ],
+      "accessories": [
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd"
+      ]
+    },
+    {
+      "variants": ["AK74", "AK74_Black", "AK74_Green"],
+      "attachments": [
+        ["kashtanOptic", "KobraOptic"],
+        [
+          "AK_PlasticHndgrd",
+          "AK_RailHndgrd",
+          "AK_RailHndgrd_Black",
+          "AK_RailHndgrd_Green",
+          "AK_WoodHndgrd",
+          "AK_WoodHndgrd_Black",
+          "AK_WoodHndgrd_Camo",
+          "AK74_Hndgrd"
+        ],
+        [
+          "AK_FoldingBttstck",
+          "AK_FoldingBttstck_Black",
+          "AK_FoldingBttstck_Green",
+          "AK_PlasticBttstck",
+          "AK_PlasticBttstck_Black",
+          "AK_PlasticBttstck_Green",
+          "AK_WoodBttstck",
+          "AK_WoodBttstck_Black",
+          "AK_WoodBttstck_Camo",
+          "AK74_WoodBttstck",
+          "AKS74U_Bttstck"
+        ]
+      ],
+      "accessories": [
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd"
+      ]
+    },
+    {
+      "variants": ["AKM"],
+      "attachments": [
+        ["KobraOptic"],
+        [
+          "AK_PlasticHndgrd",
+          "AK_RailHndgrd",
+          "AK_RailHndgrd_Black",
+          "AK_RailHndgrd_Green",
+          "AK_WoodHndgrd",
+          "AK_WoodHndgrd_Black",
+          "AK_WoodHndgrd_Camo",
+          "AK74_Hndgrd"
+        ],
+        [
+          "AK_FoldingBttstck",
+          "AK_FoldingBttstck_Black",
+          "AK_FoldingBttstck_Green",
+          "AK_PlasticBttstck",
+          "AK_PlasticBttstck_Black",
+          "AK_PlasticBttstck_Green",
+          "AK_WoodBttstck",
+          "AK_WoodBttstck_Black",
+          "AK_WoodBttstck_Camo",
+          "AK74_WoodBttstck",
+          "AKS74U_Bttstck"
+        ]
+      ],
+      "accessories": [
+        "Mag_AKM_30Rnd",
+        "Mag_AKM_30Rnd",
+        "Mag_AKM_30Rnd",
+        "Mag_AKM_30Rnd"
+      ]
+    },
+    {
+      "variants": ["Saiga"],
+      "attachments": [
+        ["Saiga_Bttstck"]
+      ],
+      "accessories": [
+        "Mag_Saiga_8Rnd",
+        "Mag_Saiga_8Rnd",
+        "Mag_Saiga_8Rnd",
+        "Mag_Saiga_8Rnd"
+      ]
+    },
+    {
+      "variants": ["M16A2"],
+      "attachments": [],
+      "accessories": [
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAG_30Rnd"
+      ]
+    },
+    {
+      "variants": ["FAMAS", "SawedoffFAMAS"],
+      "attachments": [],
+      "accessories": [
+        "Mag_FAMAS_25Rnd",
+        "Mag_FAMAS_25Rnd",
+        "Mag_FAMAS_25Rnd",
+        "Mag_FAMAS_25Rnd"
+      ]
+    }
+  ],
+  "secondaryWeapons": [
+    {
+      "variants": ["AugShort"],
+      "attachments": [],
+      "accessories": [
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd",
+        "Mag_Aug_30Rnd"
+      ]
+    },
+    {
+      "variants": ["CZ61"],
+      "attachments": [],
+      "accessories": [
+        "Mag_CZ61_20Rnd",
+        "Mag_CZ61_20Rnd",
+        "Mag_CZ61_20Rnd",
+        "Mag_CZ61_20Rnd"
+      ]
+    },
+    {
+      "variants": ["PP19"],
+      "attachments": [
+        ["KobraOptic"],
+        ["PP19_Bttstck"]
+      ],
+      "accessories": [
+        "Mag_PP19_64Rnd",
+        "Mag_PP19_64Rnd",
+        "Mag_PP19_64Rnd",
+        "Mag_PP19_64Rnd"
+      ]
+    },
+    {
+      "variants": ["MP5K"],
+      "attachments": [
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"],
+        ["MP5_PlasticHndgrd", "MP5_RailHndgrd"],
+        ["MP5k_StockBttstck"]
+      ],
+      "accessories": [
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_MP5_30Rnd"
+      ]
+    },
+    {
+      "variants": ["Izh43Shotgun", "SawedoffIzh43Shotgun", "Mp133Shotgun"],
+      "attachments": [],
+      "accessories": [
+        "Ammo_12gaPellets",
+        "Ammo_12gaPellets",
+        "Ammo_12gaPellets"
+      ]
+    },
+    {
+      "variants": ["UMP45"],
+      "attachments": [
+        ["M68Optic", "M4_T3NRDSOptic", "ReflexOptic"]
+      ],
+      "accessories": [
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd",
+        "Mag_UMP_25Rnd"
+      ]
+    },
+    {
+      "variants": ["AKS74U", "AKS74U_Black", "AKS74U_Green"],
+      "attachments": [
+        [
+          "AK_FoldingBttstck",
+          "AK_FoldingBttstck_Black",
+          "AK_FoldingBttstck_Green",
+          "AK_PlasticBttstck",
+          "AK_PlasticBttstck_Black",
+          "AK_PlasticBttstck_Green",
+          "AK_WoodBttstck",
+          "AK_WoodBttstck_Black",
+          "AK_WoodBttstck_Camo",
+          "AK74_WoodBttstck",
+          "AKS74U_Bttstck"
+        ]
+      ],
+      "accessories": [
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd"
+      ]
+    },
+    {
+      "variants": ["M79"],
+      "attachments": [],
+      "accessories": [
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_ChemGas",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive",
+        "Ammo_40mm_Explosive"
+      ]
+    },
+    {
+      "variants": ["Winchester70"],
+      "attachments": [
+        ["HuntingOptic"]
+      ],
+      "accessories": [
+        "Ammo_308Win",
+        "Ammo_308Win",
+        "Ammo_308Win"
+      ]
+    },
+    {
+      "variants": ["B95"],
+      "attachments": [
+        ["HuntingOptic"]
+      ],
+      "accessories": [
+        "Ammo_308Win",
+        "Ammo_308Win",
+        "Ammo_308Win"
+      ]
+    },
+    {
+      "variants": ["Mosin9130", "Mosin9130_Black", "Mosin9130_Camo", "Mosin9130_Green"],
+      "attachments": [
+        ["PUScopeOptic"]
+      ],
+      "accessories": [
+        "Ammo_762x54",
+        "Ammo_762x54",
+        "Ammo_762x54"
+      ]
+    },
+    {
+      "variants": ["SV98"],
+      "attachments": [
+        ["ACOGOptic_6x"]
+      ],
+      "accessories": [
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd",
+        "Mag_SV98_10Rnd"
+      ]
+    },
+    {
+      "variants": ["SKS"],
+      "attachments": [
+        ["PUScopeOptic"]
+      ],
+      "accessories": [
+        "Ammo_762x39",
+        "Ammo_762x39",
+        "Ammo_762x39"
+      ]
+    },
+    {
+      "variants": ["CZ527"],
+      "attachments": [
+        ["HuntingOptic"]
+      ],
+      "accessories": [
+        "Mag_CZ527_5rnd",
+        "Mag_CZ527_5rnd",
+        "Mag_CZ527_5rnd",
+        "Mag_CZ527_5rnd"
+      ]
+    },
+    {
+      "variants": ["Scout", "Scout_Chernarus", "Scout_Livonia"],
+      "attachments": [
+        ["ACOGOptic", "ACOGOptic_6x"]
+      ],
+      "accessories": [
+        "Mag_Scout_5Rnd",
+        "Mag_Scout_5Rnd",
+        "Mag_Scout_5Rnd",
+        "Mag_Scout_5Rnd"
+      ]
+    },
+    {
+      "variants": ["CZ550"],
+      "attachments": [
+        ["HuntingOptic"]
+      ],
+      "accessories": [
+        "Mag_CZ550_4rnd",
+        "Mag_CZ550_4rnd",
+        "Mag_CZ550_4rnd",
+        "Mag_CZ550_4rnd"
+      ]
+    },
+    {
+      "variants": ["SSG82"],
+      "attachments": [],
+      "accessories": [
+        "Mag_SSG82_5rnd",
+        "Mag_SSG82_5rnd",
+        "Mag_SSG82_5rnd",
+        "Mag_SSG82_5rnd"
+      ]
+    }
+  ],
+  "crateWeapons": [
+
+  ],
+  "crateArmor": [
+    [
+
+    ],
+    [
+
+    ],
+    [
+
+    ]
+  ],
+  "crateOther": [
+    ["LandMineTrap", "BearTrap", "TripwireTrap", "ClaymoreMine"],
+    ["LandMineTrap", "BearTrap", "TripwireTrap", "ClaymoreMine"],
+    ["LandMineTrap", "BearTrap", "TripwireTrap", "ClaymoreMine"],
+    ["FlashGrenade", "M67Grenade", "RGD5Grenade", "Grenade_ChemGas"],
+    ["FlashGrenade", "M67Grenade", "RGD5Grenade", "Grenade_ChemGas"],
+    ["FlashGrenade", "M67Grenade", "RGD5Grenade", "Grenade_ChemGas"]
+  ],
+  "knives": [
+    "CombatKnife"
+  ],
+  "outfits": [
+    [
+      {
+        "chance": 100,
+        "choices": [
+          "TacticalGloves_Beige",
+          "TacticalGloves_Black",
+          "TacticalGloves_Green"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "BDUJacket",
+          "GorkaEJacket_Summer",
+          "GorkaEJacket_Autumn",
+          "GorkaEJacket_Flat",
+          "GorkaEJacket_PautRev",
+          "USMCJacket_Desert",
+          "USMCJacket_Woodland"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "BDUPants",
+          "GorkaPants_Autumn",
+          "GorkaPants_Summer",
+          "GorkaPants_Flat",
+          "GorkaPants_PautRev",
+          "USMCPants_Woodland",
+          "USMCPants_Desert",
+          "TTSKOPants"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "BallisticHelmet_Black",
+          "BallisticHelmet_Green",
+          "BallisticHelmet_UN",
+          "BallisticHelmet_BDU",
+          "BallisticHelmet_Desert",
+          "BallisticHelmet_Woodland",
+          "GorkaHelmet",
+          "GorkaHelmet_Green",
+          "GorkaHelmet_Black",
+          "Mich2001Helmet"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "MilitaryBoots_Black",
+          "MilitaryBoots_Brown",
+          "MilitaryBoots_Beige",
+          "MilitaryBoots_Bluerock",
+          "MilitaryBoots_Redpunk",
+          "CombatBoots_Beige",
+          "CombatBoots_Black",
+          "CombatBoots_Brown",
+          "CombatBoots_Green",
+          "CombatBoots_Grey"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "PlateCarrierVest",
+          "PlateCarrierVest_Black",
+          "PlateCarrierVest_Green",
+          "PlateCarrierVest_Camo"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": ["MilitaryBelt"]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "BalaclavaMask_Black",
+          "BalaclavaMask_Blackskull",
+          "BalaclavaMask_Beige",
+          "BalaclavaMask_Blue",
+          "BalaclavaMask_Green",
+          "BalaclavaMask_White",
+          "Balaclava3Holes_Beige",
+          "Balaclava3Holes_Blue",
+          "Balaclava3Holes_Black",
+          "Balaclava3Holes_Green"
+        ]
+      },
+      {
+        "chance": 100,
+        "choices": [
+          "AssaultBag_Ttsko",
+          "AssaultBag_Black",
+          "AssaultBag_Green",
+          "CoyoteBag_Brown",
+          "CoyoteBag_Green",
+          "AliceBag_Camo",
+          "AliceBag_Creen",
+          "AliceBag_Black",
+          "AliceBag_NearBubble",
+          "AliceBag_FarBubble"
+        ]
+      }
+    ]
+  ],
+  "infectedTypes": [
+    "ZmbF_HikerSkinny_Green",
+    "ZmbF_SurvivorNormal_Red",
+    "ZmbF_MilkMaidOld_Green",
+    "ZmbM_HermitSkinny_Red",
+    "ZmbM_PatrolNormal_Flat",
+    "ZmbM_usSoldier_Heavy_Woodland",
+    "ZmbF_JournalistNormal_Red",
+    "ZmbM_NBC_Grey",
+    "ZmbM_ConstrWorkerNormal_Black",
+    "ZmbM_SoldierNormal",
+    "ZmbM_ParamedicNormal_Black",
+    "ZmbF_DoctorSkinny",
+    "ZmbM_HermitSkinny_Green",
+    "ZmbM_Jacket_stripes",
+    "ZmbF_MilkMaidOld_Black",
+    "ZmbF_ShortSkirt_brown",
+    "ZmbF_ShortSkirt_grey",
+    "ZmbM_ParamedicNormal_Green",
+    "ZmbF_ParamedicNormal_Blue",
+    "ZmbM_MechanicSkinny_Green",
+    "ZmbF_ShortSkirt_white",
+    "ZmbM_PatrolNormal_Summer",
+    "ZmbM_HandymanNormal_White",
+    "ZmbF_SurvivorNormal_White",
+    "ZmbM_Jacket_greenchecks",
+    "ZmbM_JoggerSkinny_Red",
+    "ZmbM_usSoldier_Officer_Convoy",
+    "ZmbM_FarmerFat_Beige",
+    "ZmbM_Jacket_magenta",
+    "ZmbF_CitizenANormal_Brown",
+    "ZmbF_MechanicNormal_Grey",
+    "ZmbM_CommercialPilotOld_Olive",
+    "ZmbF_ShortSkirt_green",
+    "ZmbF_BlueCollarFat_Green",
+    "ZmbF_HikerSkinny_Red",
+    "ZmbM_FarmerFat_Green",
+    "ZmbF_JournalistNormal_Blue",
+    "ZmbM_HunterOld_Spring",
+    "ZmbF_JoggerSkinny_Green",
+    "ZmbM_ParamedicNormal_Blue",
+    "ZmbF_ShortSkirt_stripes",
+    "ZmbM_HeavyIndustryWorker",
+    "ZmbM_VillagerOld_Green",
+    "ZmbF_PatientOld",
+    "ZmbM_PrisonerSkinny",
+    "ZmbM_JournalistSkinny",
+    "ZmbF_BlueCollarFat_Red",
+    "ZmbF_CitizenBSkinny",
+    "ZmbF_ClerkFat_BluePattern",
+    "ZmbF_ClerkFat_White",
+    "ZmbM_VillagerOld_Blue",
+    "ZmbM_HandymanNormal_Grey",
+    "ZmbM_MechanicSkinny_Red",
+    "ZmbM_PatrolNormal_Autumn",
+    "ZmbF_JoggerSkinny_Blue",
+    "ZmbM_priestPopSkinny",
+    "ZmbM_HermitSkinny_Beige",
+    "ZmbF_Clerk_Normal_Red",
+    "ZmbF_ClerkFat_Black",
+    "ZmbM_DoctorFat",
+    "ZmbF_VillagerOld_Red",
+    "ZmbM_HikerSkinny_Green",
+    "ZmbM_Jacket_khaki",
+    "ZmbM_Jacket_black",
+    "ZmbM_MotobikerFat_Black",
+    "ZmbM_HandymanNormal_Beige",
+    "ZmbM_ClerkFat_Grey",
+    "ZmbM_HandymanNormal_Green",
+    "ZmbM_HunterOld_Winter",
+    "ZmbM_NBC_Yellow",
+    "ZmbF_ParamedicNormal_Red",
+    "ZmbF_JournalistNormal_White",
+    "ZmbF_VillagerOld_Green",
+    "ZmbM_CommercialPilotOld_Grey",
+    "ZmbF_VillagerOld_White",
+    "ZmbM_MotobikerFat_Beige",
+    "ZmbF_MechanicNormal_Beige",
+    "ZmbM_PolicemanFat",
+    "ZmbM_OffshoreWorker_Green",
+    "ZmbM_JoggerSkinny_Green",
+    "ZmbF_PoliceWomanNormal",
+    "ZmbF_ShortSkirt_checks",
+    "ZmbM_PolicemanSpecForce",
+    "ZmbM_HunterOld_Summer",
+    "ZmbM_ParamedicNormal_Red",
+    "ZmbM_ClerkFat_White",
+    "ZmbM_usSoldier_normal_Desert",
+    "ZmbF_Clerk_Normal_Green",
+    "ZmbM_HermitSkinny_Black",
+    "ZmbM_FirefighterNormal",
+    "ZmbM_SkaterYoung_Grey",
+    "ZmbM_OffshoreWorker_Yellow",
+    "ZmbF_SurvivorNormal_Orange",
+    "ZmbF_ClerkFat_GreyPattern",
+    "ZmbM_HunterOld_Autumn",
+    "ZmbF_SkaterYoung_Violet",
+    "ZmbM_Jacket_grey",
+    "ZmbF_Clerk_Normal_Blue",
+    "ZmbM_CitizenASkinny_Red",
+    "ZmbF_HikerSkinny_Blue",
+    "ZmbM_PatientSkinny",
+    "ZmbM_MechanicSkinny_Grey",
+    "ZmbM_HikerSkinny_Yellow",
+    "ZmbM_CitizenASkinny_Brown",
+    "ZmbF_VillagerOld_Blue",
+    "ZmbM_CommercialPilotOld_Brown",
+    "ZmbM_CitizenBFat_Green",
+    "ZmbM_ConstrWorkerNormal_Grey",
+    "ZmbM_CitizenBFat_Red",
+    "ZmbM_FishermanOld_Red",
+    "ZmbM_FishermanOld_Green",
+    "ZmbF_ShortSkirt_red",
+    "ZmbM_ClerkFat_Khaki",
+    "ZmbM_JoggerSkinny_Blue",
+    "ZmbF_HikerSkinny_Grey",
+    "ZmbM_HandymanNormal_Blue",
+    "ZmbF_SkaterYoung_Brown",
+    "ZmbM_PolicemanSpecForce_Heavy",
+    "ZmbM_OffshoreWorker_Red",
+    "ZmbF_BlueCollarFat_White",
+    "ZmbF_ShortSkirt_yellow",
+    "ZmbF_ParamedicNormal_Green",
+    "ZmbF_MilkMaidOld_Beige",
+    "ZmbF_MechanicNormal_Green",
+    "ZmbM_MechanicSkinny_Blue",
+    "ZmbF_ShortSkirt_Black",
+    "ZmbF_NurseFat",
+    "ZmbF_CitizenANormal_Beige",
+    "ZmbF_JoggerSkinny_Red",
+    "ZmbM_CitizenASkinny_Grey",
+    "ZmbM_CitizenBFat_Blue",
+    "ZmbF_JournalistNormal_Green",
+    "ZmbM_SkaterYoung_Blue",
+    "ZmbF_MechanicNormal_Orange",
+    "ZmbF_SurvivorNormal_Blue",
+    "ZmbM_usSoldier_normal_Woodland",
+    "ZmbF_MilkMaidOld_Grey",
+    "ZmbM_Jacket_bluechecks",
+    "ZmbM_FarmerFat_Brown",
+    "ZmbF_JoggerSkinny_Brown",
+    "ZmbM_VillagerOld_White",
+    "ZmbF_CitizenANormal_Blue",
+    "ZmbF_Clerk_Normal_White",
+    "ZmbM_FishermanOld_Grey",
+    "ZmbF_BlueCollarFat_Blue",
+    "ZmbM_Jacket_brown",
+    "ZmbM_HikerSkinny_Blue",
+    "ZmbM_FishermanOld_Blue",
+    "ZmbF_ShortSkirt_beige",
+    "ZmbM_OffshoreWorker_Orange",
+    "ZmbM_ConstrWorkerNormal_Beige",
+    "ZmbM_SkaterYoung_Green",
+    "ZmbM_CitizenASkinny_Blue",
+    "ZmbM_usSoldier_Officer_Desert",
+    "ZmbM_Jacket_beige",
+    "ZmbM_PatrolNormal_PautRev",
+    "ZmbF_SkaterYoung_Striped",
+    "ZmbM_ConstrWorkerNormal_Green",
+    "ZmbM_CommercialPilotOld_Blue",
+    "ZmbM_Jacket_blue",
+    "ZmbM_ClerkFat_Brown",
+    "ZmbM_SkaterYoung_Brown",
+    "ZmbM_MotobikerFat_Blue",
+    "ZmbM_FarmerFat_Blue"
+  ]
+}
