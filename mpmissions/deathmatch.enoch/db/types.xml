@@ -8,6 +8,8 @@
     </type>
     <type name="AK101">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AK101_Black">
         <lifetime>300</lifetime>
@@ -17,6 +19,8 @@
     </type>
     <type name="AK74">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AK74_Black">
         <lifetime>300</lifetime>
@@ -32,9 +36,13 @@
     </type>
     <type name="AKM">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AKS74U">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AKS74U_Black">
         <lifetime>300</lifetime>
@@ -101,6 +109,8 @@
     </type>
     <type name="ASVAL">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AgaricusMushroom">
         <lifetime>300</lifetime>
@@ -191,99 +201,161 @@
     </type>
     <type name="Ammo_12gaPellets">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_12gaRubberSlug">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_12gaSlug">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_22">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_308Win">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_308WinTracer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_357">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_380">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Chemgas">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Explosive">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Smoke_Black">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Smoke_Green">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Smoke_Red">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_40mm_Smoke_White">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_45ACP">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_545x39">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_545x39Tracer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_556x45">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_556x45Tracer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_762x39">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_762x39Tracer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_762x54">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_762x54Tracer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_9x19">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_9x39">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_9x39AP">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_CupidsBolt">
         <lifetime>300</lifetime>
     </type>
     <type name="Ammo_Flare">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_FlareBlue">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_FlareGreen">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_FlareRed">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_HuntingBolt">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Ammo_ImprovisedBolt_1">
         <lifetime>300</lifetime>
@@ -351,10 +423,19 @@
     <type name="Animal_GallusGallusDomesticusF_White">
         <lifetime>300</lifetime>
     </type>
+    <type name="Animal_LepusEuropaeus">
+        <lifetime>300</lifetime>
+    </type>
     <type name="Animal_OvisAries">
         <lifetime>300</lifetime>
     </type>
     <type name="Animal_OvisAriesF">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Animal_RangiferTarandus">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Animal_RangiferTarandusF">
         <lifetime>300</lifetime>
     </type>
     <type name="Animal_SusDomesticus">
@@ -364,6 +445,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="Animal_UrsusArctos">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Animal_VulpesVulpes">
         <lifetime>300</lifetime>
     </type>
     <type name="AnniversaryBox">
@@ -522,6 +606,9 @@
     <type name="AssaultBag_Ttsko">
         <lifetime>300</lifetime>
     </type>
+    <type name="AssaultBag_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="AthleticShoes_Black">
         <lifetime>300</lifetime>
     </type>
@@ -539,9 +626,13 @@
     </type>
     <type name="Aug">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AugShort">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="AuriculariaMushroom">
         <lifetime>300</lifetime>
@@ -551,6 +642,8 @@
     </type>
     <type name="B95">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="BDUJacket">
         <lifetime>300</lifetime>
@@ -582,6 +675,12 @@
     <type name="Balaclava3Holes_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="Balaclava3Holes_White">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="BalaclavaMask_BDU">
+        <lifetime>300</lifetime>
+    </type>
     <type name="BalaclavaMask_Beige">
         <lifetime>300</lifetime>
     </type>
@@ -594,7 +693,13 @@
     <type name="BalaclavaMask_Blue">
         <lifetime>300</lifetime>
     </type>
+    <type name="BalaclavaMask_Chain">
+        <lifetime>300</lifetime>
+    </type>
     <type name="BalaclavaMask_Green">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="BalaclavaMask_Pig">
         <lifetime>300</lifetime>
     </type>
     <type name="BalaclavaMask_Pink">
@@ -615,7 +720,13 @@
     <type name="BallisticHelmet_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="BallisticHelmet_Navy">
+        <lifetime>300</lifetime>
+    </type>
     <type name="BallisticHelmet_UN">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="BallisticHelmet_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="BallisticHelmet_Woodland">
@@ -710,6 +821,8 @@
     </type>
     <type name="Battery9V">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="BatteryCharger">
         <lifetime>300</lifetime>
@@ -795,6 +908,10 @@
     <type name="BoarSteakMeat">
         <lifetime>300</lifetime>
     </type>
+    <type name="Boat_01_Black" />
+    <type name="Boat_01_Blue" />
+    <type name="Boat_01_Camo" />
+    <type name="Boat_01_Orange" />
     <type name="BoletusMushroom">
         <lifetime>300</lifetime>
     </type>
@@ -862,8 +979,13 @@
     <type name="BoonieHat_Tan">
         <lifetime>300</lifetime>
     </type>
+    <type name="BoonieHat_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="BoxCerealCrunchin">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="BrassKnuckles_Dull">
         <lifetime>300</lifetime>
@@ -913,6 +1035,9 @@
     <type name="Broom_Birch">
         <lifetime>300</lifetime>
     </type>
+    <type name="BudenovkaHat_Gray">
+        <lifetime>300</lifetime>
+    </type>
     <type name="BurlapSack">
         <lifetime>300</lifetime>
     </type>
@@ -922,17 +1047,28 @@
     <type name="BurlapStrip">
         <lifetime>300</lifetime>
     </type>
+    <type name="BushlatPoliceJacket_Blue">
+        <lifetime>300</lifetime>
+    </type>
     <type name="CZ527">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CZ550">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CZ61">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CZ75">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CableReel">
         <lifetime>300</lifetime>
@@ -945,24 +1081,36 @@
     </type>
     <type name="Candycane_Green">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Candycane_Red">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Candycane_RedGreen">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Candycane_Yellow">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CaninaBerry">
         <lifetime>300</lifetime>
     </type>
     <type name="CanisterGasoline">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Canteen">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CanvasBag_Medical">
         <lifetime>300</lifetime>
@@ -1002,6 +1150,8 @@
     </type>
     <type name="CarBattery">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CarRadiator">
         <lifetime>300</lifetime>
@@ -1049,6 +1199,11 @@
         <lifetime>300</lifetime>
     </type>
     <type name="CharcoalTablets">
+        <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+    </type>
+    <type name="ChelatingTablets">
         <lifetime>300</lifetime>
     </type>
     <type name="Chemlight_Blue">
@@ -1235,6 +1390,8 @@
     </type>
     <type name="Colt1911">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="CombatBoots_Beige">
         <lifetime>300</lifetime>
@@ -1314,7 +1471,19 @@
     <type name="CoyoteBag_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="CoyoteBag_Winter">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="CrabCan">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="CrabCan_Opened">
+        <lifetime>300</lifetime>
+    </type>
     <type name="Crackers">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="CraterellusMushroom">
         <lifetime>300</lifetime>
     </type>
     <type name="CrookedNose">
@@ -1322,15 +1491,23 @@
     </type>
     <type name="Crossbow_Autumn">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Crossbow_Black">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Crossbow_Summer">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Crossbow_Wood">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Crowbar">
         <lifetime>300</lifetime>
@@ -1374,6 +1551,9 @@
     <type name="DeadChicken_White">
         <lifetime>300</lifetime>
     </type>
+    <type name="DeadFox">
+        <lifetime>300</lifetime>
+    </type>
     <type name="DeadRabbit">
         <lifetime>300</lifetime>
     </type>
@@ -1382,9 +1562,13 @@
     </type>
     <type name="Deagle">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Deagle_Gold">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="DeerPelt">
         <lifetime>300</lifetime>
@@ -1397,12 +1581,18 @@
     </type>
     <type name="Derringer_Black">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Derringer_Grey">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Derringer_Pink">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="DesignerGlasses">
         <lifetime>300</lifetime>
@@ -1436,14 +1626,30 @@
     </type>
     <type name="DisinfectantAlcohol">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="DisinfectantSpray">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="DogFoodCan">
         <lifetime>300</lifetime>
     </type>
     <type name="DogFoodCan_Opened">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="DownJacket_Blue">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="DownJacket_Green">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="DownJacket_Orange">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="DownJacket_Red">
         <lifetime>300</lifetime>
     </type>
     <type name="DressShoes_Beige">
@@ -1508,6 +1714,8 @@
     </type>
     <type name="Engraved1911">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Epinephrine">
         <lifetime>300</lifetime>
@@ -1544,18 +1752,26 @@
     </type>
     <type name="FAL">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="FAMAS">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="FNP45_MRDSOptic">
         <lifetime>300</lifetime>
     </type>
     <type name="FNX45">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Fabric">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="FaceCover_Improvised">
         <lifetime>300</lifetime>
@@ -1582,6 +1798,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="FieldShovel">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="FilteringBottle">
         <lifetime>300</lifetime>
     </type>
     <type name="FirefighterAxe">
@@ -1767,6 +1986,12 @@
     <type name="FlatCap_Red">
         <lifetime>300</lifetime>
     </type>
+    <type name="FoxPelt">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="FoxSteakMeat">
+        <lifetime>300</lifetime>
+    </type>
     <type name="FryingPan">
         <lifetime>300</lifetime>
     </type>
@@ -1796,9 +2021,13 @@
     </type>
     <type name="GasMask">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="GasMask_Filter">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="GasMask_Filter_Improvised">
         <lifetime>300</lifetime>
@@ -1807,6 +2036,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieAtt_Tan">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="GhillieAtt_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieAtt_Woodland">
@@ -1818,6 +2050,9 @@
     <type name="GhillieBushrag_Tan">
         <lifetime>300</lifetime>
     </type>
+    <type name="GhillieBushrag_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="GhillieBushrag_Woodland">
         <lifetime>300</lifetime>
     </type>
@@ -1825,6 +2060,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieHood_Tan">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="GhillieHood_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieHood_Woodland">
@@ -1836,6 +2074,9 @@
     <type name="GhillieSuit_Tan">
         <lifetime>300</lifetime>
     </type>
+    <type name="GhillieSuit_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="GhillieSuit_Woodland">
         <lifetime>300</lifetime>
     </type>
@@ -1843,6 +2084,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieTop_Tan">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="GhillieTop_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="GhillieTop_Woodland">
@@ -1887,8 +2131,15 @@
     <type name="GiftWrapPaper">
         <lifetime>300</lifetime>
     </type>
+    <type name="GlassBottle">
+        <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+    </type>
     <type name="Glock19">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="GlowPlug">
         <lifetime>300</lifetime>
@@ -1911,6 +2162,9 @@
     <type name="GorkaEJacket_Summer">
         <lifetime>300</lifetime>
     </type>
+    <type name="GorkaEJacket_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="GorkaHelmet">
         <lifetime>300</lifetime>
     </type>
@@ -1927,6 +2181,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="GorkaPants_Summer">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="GorkaPants_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="GreatHelm">
@@ -2166,6 +2423,9 @@
     <type name="HeadCover_Improvised">
         <lifetime>300</lifetime>
     </type>
+    <type name="Headdress_Wolf">
+        <lifetime>300</lifetime>
+    </type>
     <type name="HeadlightH7">
         <lifetime>300</lifetime>
     </type>
@@ -2316,6 +2576,12 @@
     <type name="HuntingVest">
         <lifetime>300</lifetime>
     </type>
+    <type name="HuntingVest_Winter">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Iceaxe">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ImprovisedBag">
         <lifetime>300</lifetime>
     </type>
@@ -2330,15 +2596,23 @@
     </type>
     <type name="IodineTincture">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Izh18">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Izh18Shotgun">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Izh43Shotgun">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Jeans_Black">
         <lifetime>300</lifetime>
@@ -2356,6 +2630,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="Jeans_Grey">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Jig">
         <lifetime>300</lifetime>
     </type>
     <type name="JoggingShoes_Black">
@@ -2499,6 +2776,8 @@
     </type>
     <type name="LargeGasCanister">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="LargeTent">
         <lifetime>300</lifetime>
@@ -2622,6 +2901,8 @@
     </type>
     <type name="Longhorn">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="LugWrench">
         <lifetime>300</lifetime>
@@ -2634,9 +2915,13 @@
     </type>
     <type name="M14">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="M16A2">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="M18SmokeGrenade_Green">
         <lifetime>300</lifetime>
@@ -2655,6 +2940,8 @@
     </type>
     <type name="M4A1">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="M4A1_Black">
         <lifetime>300</lifetime>
@@ -2715,15 +3002,21 @@
     </type>
     <type name="M79">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="M9A1_Bayonet">
         <lifetime>300</lifetime>
     </type>
     <type name="MKII">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MP5K">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MP5_Compensator">
         <lifetime>300</lifetime>
@@ -2754,141 +3047,233 @@
     </type>
     <type name="Mag_1911_7Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AK101_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AK74_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AK74_45Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AKM_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AKM_Drum75Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_AKM_Palm30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Aug_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CMAG_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CMAG_20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CMAG_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CMAG_40Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CZ527_5rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CZ550_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CZ61_20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_CZ75_15Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Deagle_9rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_FAL_20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_FNX45_15Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Glock_15Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_IJ70_8Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_M14_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_M14_20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_MKII_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_MP5_15Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_MP5_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_P1_8Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_PP19_64Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Ruger1022_15Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Ruger1022_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_SSG82_5rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_STANAG_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_STANAG_60Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_SV98_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_SVD_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Saiga_5Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Saiga_8Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Scout_5Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_UMP_25Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_VAL_20Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_VSS_10Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mag_Vikhr_30Rnd">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Magnum">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MakarovIJ70">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="ManSuit_Beige">
         <lifetime>300</lifetime>
@@ -2919,6 +3304,8 @@
     </type>
     <type name="Matchbox">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MeatTenderizer">
         <lifetime>300</lifetime>
@@ -2955,6 +3342,8 @@
     </type>
     <type name="MediumGasCanister">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MediumTent">
         <lifetime>300</lifetime>
@@ -2970,6 +3359,8 @@
     </type>
     <type name="MetalPlate">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="MetalWire">
         <lifetime>300</lifetime>
@@ -3048,9 +3439,13 @@
     </type>
     <type name="Mosin9130">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mosin9130_Black">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Mosin9130_Camo">
         <lifetime>300</lifetime>
@@ -3105,8 +3500,13 @@
     </type>
     <type name="Mp133Shotgun">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="NBCBootsGray">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="NBCBootsWhite">
         <lifetime>300</lifetime>
     </type>
     <type name="NBCBootsYellow">
@@ -3121,16 +3521,25 @@
     <type name="NBCHoodGray">
         <lifetime>300</lifetime>
     </type>
+    <type name="NBCHoodWhite">
+        <lifetime>300</lifetime>
+    </type>
     <type name="NBCHoodYellow">
         <lifetime>300</lifetime>
     </type>
     <type name="NBCJacketGray">
         <lifetime>300</lifetime>
     </type>
+    <type name="NBCJacketWhite">
+        <lifetime>300</lifetime>
+    </type>
     <type name="NBCJacketYellow">
         <lifetime>300</lifetime>
     </type>
     <type name="NBCPantsGray">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="NBCPantsWhite">
         <lifetime>300</lifetime>
     </type>
     <type name="NBCPantsYellow">
@@ -3149,6 +3558,12 @@
         <lifetime>300</lifetime>
     </type>
     <type name="NailedBaseballBat">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="NavyUniformJacket">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="NavyUniformPants">
         <lifetime>300</lifetime>
     </type>
     <type name="Netting">
@@ -3173,6 +3588,12 @@
         <lifetime>300</lifetime>
     </type>
     <type name="OKZKCap_Green">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="OMKJacket_Navy">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="OMKPants_Navy">
         <lifetime>300</lifetime>
     </type>
     <type name="OMNOGloves_Brown">
@@ -3237,9 +3658,13 @@
     </type>
     <type name="P1">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="PP19">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="PP19_Bttstck">
         <lifetime>300</lifetime>
@@ -3264,6 +3689,8 @@
     </type>
     <type name="PainkillerTablets">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Pajka">
         <lifetime>300</lifetime>
@@ -3310,6 +3737,18 @@
     <type name="Pate_Opened">
         <lifetime>300</lifetime>
     </type>
+    <type name="PaydayMask_Chains">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="PaydayMask_Dallas">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="PaydayMask_Hoxton">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="PaydayMask_Wolf">
+        <lifetime>300</lifetime>
+    </type>
     <type name="PeachesCan">
         <lifetime>300</lifetime>
     </type>
@@ -3342,6 +3781,8 @@
     </type>
     <type name="PetrolLighter">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="PetushokHat_Black">
         <lifetime>300</lifetime>
@@ -3415,6 +3856,9 @@
     <type name="PlateCarrierHolster_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="PlateCarrierHolster_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="PlateCarrierPouches">
         <lifetime>300</lifetime>
     </type>
@@ -3427,6 +3871,9 @@
     <type name="PlateCarrierPouches_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="PlateCarrierPouches_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="PlateCarrierVest">
         <lifetime>300</lifetime>
     </type>
@@ -3437,6 +3884,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="PlateCarrierVest_Green">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="PlateCarrierVest_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="PleurotusMushroom">
@@ -3489,9 +3939,13 @@
     </type>
     <type name="PowderedMilk">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="PowerGenerator">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="PressVest_Blue">
         <lifetime>300</lifetime>
@@ -3522,6 +3976,8 @@
     </type>
     <type name="PurificationTablets">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="QuiltedJacket_Black">
         <lifetime>300</lifetime>
@@ -3607,10 +4063,19 @@
     <type name="Rangefinder">
         <lifetime>300</lifetime>
     </type>
+    <type name="RedCaviar">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ReflexOptic">
         <lifetime>300</lifetime>
     </type>
     <type name="ReflexVest">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ReindeerPelt">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ReindeerSteakMeat">
         <lifetime>300</lifetime>
     </type>
     <type name="RemoteDetonator">
@@ -3624,9 +4089,13 @@
     </type>
     <type name="Repeater">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Rice">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="RidersJacket_Black">
         <lifetime>300</lifetime>
@@ -3642,24 +4111,36 @@
     </type>
     <type name="Ruger1022">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SKS">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SKS_Bayonet">
         <lifetime>300</lifetime>
     </type>
     <type name="SSG82">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SV98">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SVD">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Saiga">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Saiga_Bttstck">
         <lifetime>300</lifetime>
@@ -3721,8 +4202,16 @@
     <type name="SawedoffMosin9130_Green">
         <lifetime>300</lifetime>
     </type>
+    <type name="ScientificBriefcase">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ScientificBriefcaseKeys">
+        <lifetime>300</lifetime>
+    </type>
     <type name="Scout">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Scout_Chernarus">
         <lifetime>300</lifetime>
@@ -3880,6 +4369,27 @@
     <type name="ShelterStick">
         <lifetime>300</lifetime>
     </type>
+    <type name="Shemag_Brown">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Shemag_Green">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Shemag_Red">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Shemag_White">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SherpaHat_Black">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SherpaHat_Blue">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SherpaHat_Red">
+        <lifetime>300</lifetime>
+    </type>
     <type name="Shirt_BlueCheck">
         <lifetime>300</lifetime>
     </type>
@@ -3935,6 +4445,24 @@
         <lifetime>300</lifetime>
     </type>
     <type name="SkateHelmet_Red">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGloves_90s">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGloves_Blue">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGloves_Red">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGoggles_BlackYellow">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGoggles_WhiteClear">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SkiGoggles_WhiteDark">
         <lifetime>300</lifetime>
     </type>
     <type name="Skirt_Blue">
@@ -3993,6 +4521,8 @@
     </type>
     <type name="SmallGasCanister">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SmallGuts">
         <lifetime>300</lifetime>
@@ -4002,6 +4532,8 @@
     </type>
     <type name="SmallStone">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="SmershBag">
         <lifetime>300</lifetime>
@@ -4022,6 +4554,18 @@
         <lifetime>300</lifetime>
     </type>
     <type name="Sneakers_White">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SnowstormUshanka_Brown">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SnowstormUshanka_Navy">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SnowstormUshanka_Olive">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SnowstormUshanka_White">
         <lifetime>300</lifetime>
     </type>
     <type name="SodaCan_Cola">
@@ -4110,7 +4654,14 @@
     <type name="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE" />
     <type name="StaticObj_Wreck_Uaz_DE" />
     <type name="StaticObj_Wreck_Ural_DE" />
+    <type name="Static_FrozenScientist_DE" />
     <type name="SteakKnife">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SteelheadTrout">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="SteelheadTroutFilletMeat">
         <lifetime>300</lifetime>
     </type>
     <type name="Stone">
@@ -4247,6 +4798,8 @@
     </type>
     <type name="TetracyclineAntibiotics">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Thermometer">
         <lifetime>300</lifetime>
@@ -4276,6 +4829,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="TortillaBag">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="TortillaBag_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="TrackSuitJacket_Black">
@@ -4316,6 +4872,8 @@
     </type>
     <type name="TruckBattery">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Truck_01_Covered" />
     <type name="Truck_01_Covered_Blue" />
@@ -4407,8 +4965,13 @@
     <type name="UKAssVest_Olive">
         <lifetime>300</lifetime>
     </type>
+    <type name="UKAssVest_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="UMP45">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="USMCJacket_Desert">
         <lifetime>300</lifetime>
@@ -4423,6 +4986,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="UndergroundStash">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="UndergroundStashSnow">
         <lifetime>300</lifetime>
     </type>
     <type name="UniversalLight">
@@ -4445,11 +5011,23 @@
     </type>
     <type name="VSS">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="Vikhr">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="VitaminBottle">
+        <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+    </type>
+    <type name="WalleyePollock">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="WalleyePollockFilletMeat">
         <lifetime>300</lifetime>
     </type>
     <type name="Watchtower">
@@ -4460,6 +5038,8 @@
     </type>
     <type name="WaterBottle">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="WaterproofBag_Green">
         <lifetime>300</lifetime>
@@ -4496,6 +5076,8 @@
     </type>
     <type name="Winchester70">
         <lifetime>300</lifetime>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
     </type>
     <type name="WinterCoif_Black">
         <lifetime>300</lifetime>
@@ -4512,19 +5094,19 @@
     <type name="WitchHat">
         <lifetime>300</lifetime>
     </type>
+    <type name="WitchHoodCoif_Black">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="WitchHoodCoif_Brown">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="WitchHoodCoif_Red">
+        <lifetime>300</lifetime>
+    </type>
     <type name="WitchHood_Black">
         <lifetime>300</lifetime>
     </type>
     <type name="WitchHood_Brown">
-        <lifetime>300</lifetime>
-    </type>
-    <type name="WitchHood_Chainmail_Black">
-        <lifetime>300</lifetime>
-    </type>
-    <type name="WitchHood_Chainmail_Brown">
-        <lifetime>300</lifetime>
-    </type>
-    <type name="WitchHood_Chainmail_Red">
         <lifetime>300</lifetime>
     </type>
     <type name="WitchHood_Red">
@@ -4564,6 +5146,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="WoodenCrate">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="WoodenHook">
         <lifetime>300</lifetime>
     </type>
     <type name="WoodenLog">
@@ -4791,6 +5376,9 @@
     <type name="ZmbF_NurseFat">
         <lifetime>300</lifetime>
     </type>
+    <type name="ZmbF_NurseFat_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ZmbF_ParamedicNormal_Blue">
         <lifetime>300</lifetime>
     </type>
@@ -4801,6 +5389,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbF_PatientOld">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbF_PatientOld_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbF_PoliceWomanNormal">
@@ -4929,6 +5520,9 @@
     <type name="ZmbM_DoctorFat">
         <lifetime>300</lifetime>
     </type>
+    <type name="ZmbM_DoctorFat_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ZmbM_FarmerFat_Beige">
         <lifetime>300</lifetime>
     </type>
@@ -4954,6 +5548,15 @@
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbM_FishermanOld_Red">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbM_Gamedev_Black">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbM_Gamedev_Blue">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbM_Gamedev_Gray">
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbM_HandymanNormal_Beige">
@@ -5073,6 +5676,9 @@
     <type name="ZmbM_NBC_Grey">
         <lifetime>300</lifetime>
     </type>
+    <type name="ZmbM_NBC_White">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ZmbM_NBC_Yellow">
         <lifetime>300</lifetime>
     </type>
@@ -5103,6 +5709,9 @@
     <type name="ZmbM_PatientSkinny">
         <lifetime>300</lifetime>
     </type>
+    <type name="ZmbM_PatientSkinny_Winter">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ZmbM_PatrolNormal_Autumn">
         <lifetime>300</lifetime>
     </type>
@@ -5113,6 +5722,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbM_PatrolNormal_Winter">
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbM_PolicemanFat">
@@ -5154,6 +5766,12 @@
     <type name="ZmbM_VillagerOld_White">
         <lifetime>300</lifetime>
     </type>
+    <type name="ZmbM_eastSoldier_Heavy_Navy">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="ZmbM_eastSoldier_normal_Navy">
+        <lifetime>300</lifetime>
+    </type>
     <type name="ZmbM_priestPopSkinny">
         <lifetime>300</lifetime>
     </type>
@@ -5167,6 +5785,9 @@
         <lifetime>300</lifetime>
     </type>
     <type name="ZmbM_usSoldier_normal_Woodland">
+        <lifetime>300</lifetime>
+    </type>
+    <type name="Zmbm_Mummy">
         <lifetime>300</lifetime>
     </type>
     <type name="ZmijovkaCap_Black">

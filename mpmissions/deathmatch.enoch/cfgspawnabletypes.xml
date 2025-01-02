@@ -102,6 +102,9 @@
     <type name="ZmbF_NurseFat">
         <cargo preset="medical" />
     </type>
+    <type name="ZmbF_NurseFat_Winter">
+        <cargo preset="medical" />
+    </type>
     <type name="ZmbF_ParamedicNormal_Blue">
         <cargo preset="medical" />
     </type>
@@ -112,6 +115,9 @@
         <cargo preset="medical" />
     </type>
     <type name="ZmbF_PatientOld">
+        <cargo preset="medical" />
+    </type>
+    <type name="ZmbF_PatientOld_Winter">
         <cargo preset="medical" />
     </type>
     <type name="ZmbF_PoliceWomanNormal">
@@ -240,6 +246,9 @@
     <type name="ZmbM_DoctorFat">
         <cargo preset="medical" />
     </type>
+    <type name="ZmbM_DoctorFat_Winter">
+        <cargo preset="medical" />
+    </type>
     <type name="ZmbM_FarmerFat_Beige">
         <cargo preset="general" />
     </type>
@@ -265,6 +274,15 @@
         <cargo preset="general" />
     </type>
     <type name="ZmbM_FishermanOld_Red">
+        <cargo preset="general" />
+    </type>
+    <type name="ZmbM_Gamedev_Black">
+        <cargo preset="general" />
+    </type>
+    <type name="ZmbM_Gamedev_Blue">
+        <cargo preset="general" />
+    </type>
+    <type name="ZmbM_Gamedev_Gray">
         <cargo preset="general" />
     </type>
     <type name="ZmbM_HandymanNormal_Beige">
@@ -381,7 +399,7 @@
     <type name="ZmbM_MotobikerFat_Blue">
         <cargo preset="general" />
     </type>
-    <type name="ZmbM_Mummy">
+    <type name="Zmbm_Mummy">
         <cargo preset="santa" />
     </type>
     <type name="ZmbM_OffshoreWorker_Green">
@@ -411,6 +429,9 @@
     <type name="ZmbM_PatientSkinny">
         <cargo preset="medical" />
     </type>
+    <type name="ZmbM_PatientSkinny_Winter">
+        <cargo preset="medical" />
+    </type>
     <type name="ZmbM_PatrolNormal_Autumn">
         <cargo preset="military" />
     </type>
@@ -421,6 +442,9 @@
         <cargo preset="military" />
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
+        <cargo preset="military" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Winter">
         <cargo preset="military" />
     </type>
     <type name="ZmbM_PolicemanFat">
@@ -459,6 +483,12 @@
     <type name="ZmbM_VillagerOld_White">
         <cargo preset="general" />
     </type>
+    <type name="ZmbM_eastSoldier_Heavy_Navy">
+        <cargo preset="military" />
+    </type>
+    <type name="ZmbM_eastSoldier_normal_Navy">
+        <cargo preset="military" />
+    </type>
     <type name="ZmbM_priestPopSkinny">
         <cargo preset="general" />
     </type>
@@ -475,6 +505,9 @@
         <cargo preset="military" />
     </type>
     <type name="ZmbM_NBC_Grey">
+        <cargo preset="nbc" />
+    </type>
+    <type name="ZmbM_NBC_White">
         <cargo preset="nbc" />
     </type>
     <type name="ZmbM_NBC_Yellow">
