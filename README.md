@@ -7,7 +7,6 @@
 
 ### 客户端与服务端均必需模组(-mod=)
 
-##### @Air_Strike (@Air Strike，呼叫空袭)
 ##### @Better-Snap-Sounds
 ##### @BulletStacks
 ##### @CF (必备框架)
@@ -24,7 +23,5 @@
 ##### @Survivor_Animations (@Survivor Animations，马的配套模组)
 ##### @ViewInventoryAnimation (检查背包动作)
 ##### @VPP (超级管理员)
-##### @Winter_Chernarus_V2 (@Winter Chernarus V2)
-##### @Winter_Livonia (@Winter Livonia)
 ##### @ZenSleep (睡眠模组)
 ##### @ZenVirus (感染模组)
