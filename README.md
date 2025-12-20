@@ -18,7 +18,6 @@
 > @DayZ-Expansion-Groups (expansion组队功能)
 > @DayZ-Expansion-Navigation (expansion地图GPS)
 
-##### @Drones (无人机) (Evgeny__N.bikey)
 ##### @GoreZ (伪血腥) (Munghard.bikey)
 ##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定) (Inedia.bikey)
 ##### @ViewInventoryAnimation (检查背包动作) (affenb3rtV2.bikey)
