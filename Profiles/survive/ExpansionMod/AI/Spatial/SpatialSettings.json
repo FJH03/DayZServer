@@ -1,10 +1,10 @@
 {
     "Version": 21,
-    "Spatial_MinTimer": 5.0,
-    "Spatial_MaxTimer": 20.0,
+    "Spatial_MinTimer": -1,
+    "Spatial_MaxTimer": -1,
     "MinDistance": 140,
     "MaxDistance": 220,
-    "HuntMode": 2,
+    "HuntMode": 1,
     "Points_Enabled": 0,
     "Locations_Enabled": 0,
     "Audio_Enabled": 0,

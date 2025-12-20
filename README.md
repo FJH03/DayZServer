@@ -1,28 +1,34 @@
-## 您需要从steam创意工坊中获取以下最新版本的模组列表，并将其文件夹放入DayZServer中，模组key已经放好:
+# DayZ 服务器模组清单
 
-### 服务端模组(-servermod=)
+从 Steam 创意工坊获取以下**最新版本**模组，并将模组文件夹放入 `DayZServer` 中（对应 `.bikey` 已放入 `keys/`）。
 
-##### @DayZ-Dynamic-AI-Addon (动态刷新ai，服务端拥有即可)
+## 服务端模组（`-servermod=`）
 
-### 客户端与服务端均必需模组(-mod=)
+- `@DayZ-Dynamic-AI-Addon`（动态刷新 AI；仅服务端需要）
 
-##### @Better-Snap-Sounds (DanceOfJesus.bikey)
-##### @BulletStacks (MaraudersDarkZone.bikey)
-##### @CF (必备框架) (Jacob_Mango_V3.bikey)
-##### @Dabs_Framework (@Dabs Framework，必备框架) (dab.bikey)
+## 客户端与服务端均必需模组（`-mod=`）
 
-> (Expansion.bikey)
-> @DayZ-Expansion-AI 
-> @DayZ-Expansion-Book
-> @DayZ-Expansion-Core (expansion核心)
-> @DayZ-Expansion-Groups (expansion组队功能)
-> @DayZ-Expansion-Navigation (expansion地图GPS)
+- `@Better-Snap-Sounds`（key：`DanceOfJesus.bikey`）
+- `@BulletStacks`（key：`MaraudersDarkZone.bikey`）
+- `@CF`（必备框架；key：`Jacob_Mango_V3.bikey`）
+- `@Dabs_Framework`（Dabs Framework；必备框架；key：`dab.bikey`）
 
-##### @GoreZ (伪血腥) (Munghard.bikey)
-##### @InediaInfectedAI (加强丧尸，与添加各种硬核设定) (Inedia.bikey)
-##### @ViewInventoryAnimation (检查背包动作) (affenb3rtV2.bikey)
-##### @VPP (超级管理员) (Mike.bikey)
+### DayZ Expansion（共享 key：`Expansion.bikey`）
 
-> (Zenarchist.bikey)
-> @ZenSleep (睡眠模组)
-> @ZenVirus (感染模组) 
+- `@DayZ-Expansion-AI`
+- `@DayZ-Expansion-Book`
+- `@DayZ-Expansion-Core`（Expansion 核心）
+- `@DayZ-Expansion-Groups`（Expansion 组队功能）
+- `@DayZ-Expansion-Navigation`（Expansion 地图 / GPS）
+
+### 其他模组
+
+- `@GoreZ`（伪血腥；key：`Munghard.bikey`）
+- `@InediaInfectedAI`（加强丧尸/硬核设定；key：`Inedia.bikey`）
+- `@ViewInventoryAnimation`（检查背包动作；key：`affenb3rtV2.bikey`）
+- `@VPP`（超级管理员；key：`Mike.bikey`）
+
+### Zenarchist（共享 key：`Zenarchist.bikey`）
+
+- `@ZenSleep`（睡眠模组）
+- `@ZenVirus`（感染模组）

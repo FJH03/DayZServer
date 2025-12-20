@@ -1,0 +1,6924 @@
+{
+  "ClassName": "",
+  "Chance": 1.0,
+  "Quantity": {
+    "Min": 0.0,
+    "Max": 0.0
+  },
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Headgear",
+      "Items": [
+        {
+          "ClassName": "BallisticHelmet_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_UN",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_BDU",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Desert",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Woodland",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Winter",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BallisticHelmet_Navy",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaHelmet",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "GorkaHelmetVisor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaHelmet_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "GorkaHelmetVisor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaHelmet_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "GorkaHelmetVisor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Expansion_GorkaHelmet_Yeet",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "GorkaHelmetVisor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Mich2001Helmet",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "NVGoggles",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "ConstructionPartsBuilt": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "USMCJacket_Desert",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "USMCJacket_Woodland",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaEJacket_Summer",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaEJacket_Flat",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaEJacket_Autumn",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaEJacket_PautRev",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaEJacket_Winter",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "USMCPants_Desert",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "USMCPants_Woodland",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaPants_Summer",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaPants_Flat",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaPants_Autumn",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaPants_PautRev",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "GorkaPants_Winter",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Gloves",
+      "Items": [
+        {
+          "ClassName": "TacticalGloves_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "TacticalGloves_Beige",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "TacticalGloves_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Hips",
+      "Items": [
+        {
+          "ClassName": "MilitaryBelt",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Mask",
+      "Items": [
+        {
+          "ClassName": "BalaclavaMask_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_Blackskull",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_Beige",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_Blue",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_White",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "BalaclavaMask_BDU",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "PaydayMask_Dallas",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "CombatBoots_Beige",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "CombatBoots_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "CombatBoots_Brown",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "CombatBoots_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "CombatBoots_Grey",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Back",
+      "Items": [
+        {
+          "ClassName": "CoyoteBag_Brown",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "CoyoteBag_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "CoyoteBag_Winter",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Battery9V",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "BandageDressing",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Apple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Eye",
+      "Items": [
+        {
+          "ClassName": "NVGHeadStrap",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "NVGoggles",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [
+                            {
+                              "Min": 0.7,
+                              "Max": 1.0,
+                              "Zone": ""
+                            }
+                          ],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Vest",
+      "Items": [
+        {
+          "ClassName": "PlateCarrierVest",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "PlateCarrierPouches",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red_Contaminated",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Yellow",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Purple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "FlashGrenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "PlateCarrierVest_Black",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "PlateCarrierPouches",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red_Contaminated",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Yellow",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Purple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "FlashGrenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "PlateCarrierVest_Green",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "PlateCarrierPouches",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red_Contaminated",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Yellow",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Purple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "FlashGrenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "PlateCarrierVest_Camo",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "PlateCarrierPouches",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red_Contaminated",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Yellow",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Purple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "FlashGrenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "PlateCarrierVest_Winter",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "PlateCarrierPouches",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierPouches_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Pouches"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Camo",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "PlateCarrierHolster_Winter",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Holster"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade1"
+              ]
+            },
+            {
+              "ClassName": "RGD5Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M67Grenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Grenade2"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Red_Contaminated",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Yellow",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_Purple",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "M18SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "RDG2SmokeGrenade_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": [
+                "Smoke"
+              ]
+            },
+            {
+              "ClassName": "FlashGrenade",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Shoulder",
+      "Items": [
+        {
+          "ClassName": "M4A1",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_CarryHandleOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "BUISOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic_6x",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M68Optic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_T3NRDSOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ReflexOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_OEBttstck",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPBttstck",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_CQBBttstck",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_PlasticHndgrd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_RISHndgrd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPHndgrd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "UniversalLight",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_CMAG_30Rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_CMAG_40Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_60Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "M4A1_Black",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_CarryHandleOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "BUISOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic_6x",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M68Optic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_T3NRDSOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ReflexOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_OEBttstck_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPBttstck_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_CQBBttstck_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_PlasticHndgrd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_RISHndgrd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPHndgrd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "UniversalLight",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_CMAG_30Rnd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_CMAG_40Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_60Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "M4A1_Green",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_CarryHandleOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "BUISOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ACOGOptic_6x",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M68Optic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_T3NRDSOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ReflexOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_OEBttstck_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPBttstck_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_CQBBttstck_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "M4_PlasticHndgrd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_RISHndgrd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_MPHndgrd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "UniversalLight",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_CMAG_30Rnd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_CMAG_40Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_60Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "M16A2",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "M4_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_STANAG_30Rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_CMAG_20Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_CMAG_10Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_STANAG_60Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK74",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK74_30Rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK74_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK74_Black",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK74_30Rnd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK74_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK74_Green",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck_Camo",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd_Camo",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK74_30Rnd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK74_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK74_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK101",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK101_30Rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK101_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK101_Black",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK101_30Rnd_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK101_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Black",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "AK101_Green",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "KobraOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Battery9V",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "KashtanOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_WoodBttstck_Camo",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "AK74_Hndgrd_Camo",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "AK_Suppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_AK101_30Rnd_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_AK101_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_AK101_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "Sets": []
+}
