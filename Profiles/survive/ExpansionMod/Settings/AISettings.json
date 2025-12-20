@@ -1,5 +1,5 @@
 {
-    "m_Version": 11,
+    "m_Version": 18,
     "AccuracyMin": 0.3499999940395355,
     "AccuracyMax": 0.949999988079071,
     "ThreatDistanceLimit": 1000.0,
@@ -10,19 +10,28 @@
         "76561199192411803",
         "76561198214873857"
     ],
-    "MaximumDynamicPatrols": -1,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,
+    "AggressionTimeout": 120.0,
+    "GuardAggressionTimeout": 150.0,
     "Manners": 0,
     "MemeLevel": 1,
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 0,
+    "MaxRecruitableAI": 1,
     "PreventClimb": [],
-    "ExcludedRoamingLocations": [],
-    "ExcludedRoamingBuildings": [],
+    "FormationScale": 1.0,
     "PlayerFactions": [
         "Mercenaries"
     ],
     "LogAIHitBy": 1,
-    "LogAIKilled": 1
+    "LogAIKilled": 1,
+    "EnableZombieVehicleAttackHandler": 0,
+    "EnableZombieVehicleAttackPhysics": 0,
+    "OverrideClientWeaponFiring": 1,
+    "RecreateWeaponNetworkRepresentation": 1,
+    "LightingConfigMinNightVisibilityMeters": {
+        "0": 100.0,
+        "1": 10.0
+    }
 }

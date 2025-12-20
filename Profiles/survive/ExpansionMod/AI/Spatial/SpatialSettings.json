@@ -1,5 +1,5 @@
 {
-    "Version": 20,
+    "Version": 21,
     "Spatial_MinTimer": 5.0,
     "Spatial_MaxTimer": 20.0,
     "MinDistance": 140,
@@ -41,7 +41,7 @@
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.25,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
         },
@@ -54,7 +54,7 @@
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.25,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 0
         },
@@ -67,8 +67,8 @@
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.25,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
+            "Spatial_MinAccuracy": 0.30000001192092898,
+            "Spatial_MaxAccuracy": 0.6000000238418579,
             "Spatial_UnlimitedReload": 0
         },
         {
@@ -80,8 +80,8 @@
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.25,
-            "Spatial_MinAccuracy": 0.4,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.4000000059604645,
+            "Spatial_MaxAccuracy": 0.699999988079071,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -93,8 +93,8 @@
             "Spatial_Name": "Mercenaries",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.25,
-            "Spatial_MinAccuracy": 0.4,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.4000000059604645,
+            "Spatial_MaxAccuracy": 0.699999988079071,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -105,8 +105,8 @@
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Shamans",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
         },
@@ -118,8 +118,8 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_Chance": 0.4000000059604645,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
         },
@@ -131,8 +131,8 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_Chance": 0.4000000059604645,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
         },
@@ -144,8 +144,8 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_Chance": 0.4000000059604645,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
         },
@@ -157,8 +157,8 @@
             "Spatial_Faction": "Civilian",
             "Spatial_Name": "Civilian",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.4,
-            "Spatial_MinAccuracy": 0.2,
+            "Spatial_Chance": 0.4000000059604645,
+            "Spatial_MinAccuracy": 0.20000000298023225,
             "Spatial_MaxAccuracy": 0.5,
             "Spatial_UnlimitedReload": 1
         },
@@ -170,9 +170,9 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.6000000238418579,
+            "Spatial_MaxAccuracy": 0.800000011920929,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -183,9 +183,9 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.6000000238418579,
+            "Spatial_MaxAccuracy": 0.800000011920929,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -196,9 +196,9 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.6000000238418579,
+            "Spatial_MaxAccuracy": 0.800000011920929,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -209,8 +209,8 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.55,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.550000011920929,
             "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
         },
@@ -222,8 +222,8 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "East",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.55,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.550000011920929,
             "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
         },
@@ -236,8 +236,8 @@
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
+            "Spatial_MinAccuracy": 0.30000001192092898,
+            "Spatial_MaxAccuracy": 0.6000000238418579,
             "Spatial_UnlimitedReload": 0
         },
         {
@@ -249,8 +249,8 @@
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
+            "Spatial_MinAccuracy": 0.30000001192092898,
+            "Spatial_MaxAccuracy": 0.6000000238418579,
             "Spatial_UnlimitedReload": 0
         },
         {
@@ -262,8 +262,8 @@
             "Spatial_Name": "Raiders",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.5,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.6,
+            "Spatial_MinAccuracy": 0.30000001192092898,
+            "Spatial_MaxAccuracy": 0.6000000238418579,
             "Spatial_UnlimitedReload": 0
         },
         {
@@ -274,9 +274,9 @@
             "Spatial_Faction": "West",
             "Spatial_Name": "West",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.7,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.699999988079071,
+            "Spatial_MaxAccuracy": 0.8999999761581421,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -287,9 +287,9 @@
             "Spatial_Faction": "West",
             "Spatial_Name": "West",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.3,
-            "Spatial_MinAccuracy": 0.8,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.800000011920929,
+            "Spatial_MaxAccuracy": 0.949999988079071,
             "Spatial_UnlimitedReload": 1
         }
     ],
@@ -432,7 +432,6 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.25,
-            "Spatial_MaxAccuracy": 0.6600000262260437,
             "Spatial_Timer": 5.0,
             "Spatial_Sensitivity": 3.0,
             "Spatial_SpawnMode": 0,
@@ -461,7 +460,6 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.5,
             "Spatial_MinAccuracy": 0.25,
-            "Spatial_MaxAccuracy": 0.6600000262260437,
             "Spatial_Timer": 5.0,
             "Spatial_Sensitivity": 3.0,
             "Spatial_SpawnMode": 0,
