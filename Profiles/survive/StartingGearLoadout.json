@@ -723,7 +723,137 @@
               "Zone": ""
             }
           ],
-          "InventoryAttachments": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Canteen",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PlateCarrierHolster",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "PlateCarrierHolster_Black",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "PlateCarrierHolster_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "PlateCarrierHolster_Camo",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "PlateCarrierHolster_Winter",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "NylonKnifeSheath",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [
+                    {
+                      "slotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "CombatKnife",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        },
+                        {
+                          "ClassName": "HuntingKnife",
+                          "Chance": 1.0,
+                          "Quantity": {
+                            "Min": 0.0,
+                            "Max": 0.0
+                          },
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
           "InventoryCargo": [],
           "Sets": []
         }
@@ -857,24 +987,6 @@
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "Sets": []
-        },
-        {
-          "ClassName": "PaydayMask_Dallas",
-          "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1.0,
-              "Zone": ""
-            }
-          ],
-          "InventoryAttachments": [],
-          "InventoryCargo": [],
-          "Sets": []
         }
       ]
     },
@@ -990,7 +1102,127 @@
               "Zone": ""
             }
           ],
-          "InventoryAttachments": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PersonalRadio",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Chemlight_White",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Red",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Blue",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Yellow",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_NearBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_FarBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
           "InventoryCargo": [
             {
               "ClassName": "Battery9V",
@@ -1041,7 +1273,7 @@
               "Sets": []
             },
             {
-              "ClassName": "Apple",
+              "ClassName": "SalineBagIV",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -1117,7 +1349,127 @@
               "Zone": ""
             }
           ],
-          "InventoryAttachments": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PersonalRadio",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Chemlight_White",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Red",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Blue",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Yellow",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_NearBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_FarBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
           "InventoryCargo": [
             {
               "ClassName": "Battery9V",
@@ -1168,7 +1520,7 @@
               "Sets": []
             },
             {
-              "ClassName": "Apple",
+              "ClassName": "SalineBagIV",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -1244,7 +1596,127 @@
               "Zone": ""
             }
           ],
-          "InventoryAttachments": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PersonalRadio",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Battery9V",
+                      "Chance": 1.0,
+                      "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "Sets": []
+                    }
+                  ],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Chemlight_White",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Red",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Blue",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_Yellow",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_NearBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "Chemlight_FarBubble",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
           "InventoryCargo": [
             {
               "ClassName": "Battery9V",
@@ -1295,7 +1767,7 @@
               "Sets": []
             },
             {
-              "ClassName": "Apple",
+              "ClassName": "SalineBagIV",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -1427,6 +1899,24 @@
           ],
           "InventoryCargo": [],
           "Sets": []
+        },
+        {
+          "ClassName": "",
+          "Chance": 1.0,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "Sets": []
         }
       ]
     },
@@ -1470,167 +1960,7 @@
               ]
             },
             {
-              "ClassName": "PlateCarrierPouches_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Winter",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierHolster",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Winter",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -1927,26 +2257,6 @@
           "InventoryAttachments": [],
           "InventoryCargo": [
             {
-              "ClassName": "PlateCarrierPouches",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierPouches_Black",
               "Chance": 1.0,
               "Quantity": {
@@ -1967,147 +2277,7 @@
               ]
             },
             {
-              "ClassName": "PlateCarrierPouches_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Winter",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierHolster_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Winter",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -2404,46 +2574,6 @@
           "InventoryAttachments": [],
           "InventoryCargo": [
             {
-              "ClassName": "PlateCarrierPouches",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierPouches_Green",
               "Chance": 1.0,
               "Quantity": {
@@ -2464,127 +2594,7 @@
               ]
             },
             {
-              "ClassName": "PlateCarrierPouches_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Winter",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierHolster_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Winter",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -2881,66 +2891,6 @@
           "InventoryAttachments": [],
           "InventoryCargo": [
             {
-              "ClassName": "PlateCarrierPouches",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierPouches_Camo",
               "Chance": 1.0,
               "Quantity": {
@@ -2961,107 +2911,7 @@
               ]
             },
             {
-              "ClassName": "PlateCarrierPouches_Winter",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierHolster_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Winter",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -3358,86 +3208,6 @@
           "InventoryAttachments": [],
           "InventoryCargo": [
             {
-              "ClassName": "PlateCarrierPouches",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierPouches_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Pouches"
-              ]
-            },
-            {
               "ClassName": "PlateCarrierPouches_Winter",
               "Chance": 1.0,
               "Quantity": {
@@ -3455,86 +3225,6 @@
               "InventoryCargo": [],
               "Sets": [
                 "Pouches"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Black",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Green",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
-              ]
-            },
-            {
-              "ClassName": "PlateCarrierHolster_Camo",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1.0,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "Sets": [
-                "Holster"
               ]
             },
             {
@@ -6897,6 +6587,166 @@
             },
             {
               "ClassName": "Mag_AK101_30Rnd_Green",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "",
+      "Items": [
+        {
+          "ClassName": "CZ550",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "HuntingOptic",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ImprovisedSuppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_CZ550_10rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_CZ550_10rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_CZ550_4rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_CZ550_4rnd",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
