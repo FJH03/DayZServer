@@ -1225,6 +1225,30 @@
           ],
           "InventoryCargo": [
             {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
               "ClassName": "Battery9V",
               "Chance": 1.0,
               "Quantity": {
@@ -1472,6 +1496,30 @@
           ],
           "InventoryCargo": [
             {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
               "ClassName": "Battery9V",
               "Chance": 1.0,
               "Quantity": {
@@ -1718,6 +1766,30 @@
             }
           ],
           "InventoryCargo": [
+            {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "WeaponCleaningKit",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
             {
               "ClassName": "Battery9V",
               "Chance": 1.0,
