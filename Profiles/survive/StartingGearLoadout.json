@@ -7076,7 +7076,7 @@
           "Sets": []
         },
         {
-          "ClassName": "M79",
+          "ClassName": "SSG82",
           "Chance": 0.33333334,
           "Quantity": {
             "Min": 0.0,
@@ -7094,7 +7094,42 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "Ammo_40mm_Explosive",
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ImprovisedSuppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_SSG82_5rnd",
                   "Chance": 1.0,
                   "Quantity": {
                     "Min": 0.0,
@@ -7115,6 +7150,115 @@
             }
           ],
           "InventoryCargo": [
+            {
+              "ClassName": "Mag_SSG82_5rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_SSG82_5rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_SSG82_5rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_SSG82_5rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "M79",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "Ammo_40mm_Explosive",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
             {
               "ClassName": "Ammo_40mm_Explosive",
               "Chance": 1.0,
@@ -7261,6 +7405,179 @@
             },
             {
               "ClassName": "Ammo_40mm_Smoke_White",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            }
+          ],
+          "Sets": []
+        },
+        {
+          "ClassName": "M14",
+          "Chance": 0.33333334,
+          "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1.0,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "MK4Optic_Green",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "ImprovisedSuppressor",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_M14_10rnd",
+                  "Chance": 1.0,
+                  "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1.0,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_M14_10rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_M14_10rnd",
+              "Chance": 1.0,
+              "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "Health": [
+                {
+                  "Min": 0.7,
+                  "Max": 1.0,
+                  "Zone": ""
+                }
+              ],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_M14_20rnd",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
