@@ -27,8 +27,3 @@
 - `@InediaInfectedAI`（加强丧尸/硬核设定；key：`Inedia.bikey`）
 - `@ViewInventoryAnimation`（检查背包动作；key：`affenb3rtV2.bikey`）
 - `@VPP`（超级管理员；key：`Mike.bikey`）
-
-### Zenarchist（共享 key：`Zenarchist.bikey`）
-
-- `@ZenSleep`（睡眠模组）
-- `@ZenVirus`（感染模组）
